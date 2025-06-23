@@ -108,35 +108,35 @@
      "name": "Youtube-Dowloader",
     "description": "Baixar Videos e Audios do Youtube",
     "url": "https://github.com/aandrew-me/ytDownloader/releases/download/v3.19.1/YTDownloader_Linux.AppImage",
-    "icon": "",
+    "icon": "https://www.svgrepo.com/download/452138/youtube.svg",
     "category": "Entretaiment"
 },
 {
      "name": "Youtube-Music",
     "description": "Ouvir Musicas via Youtube Music",
     "url": "https://github.com/th-ch/youtube-music/releases/download/v3.9.0/YouTube-Music-3.9.0.AppImage",
-    "icon": "",
+    "icon": "https://www.svgrepo.com/download/343535/youtube-music-song-multimedia-audio.svg",
     "category": "Music"
 },
 {
      "name": "Twitch",
     "description": "Assistir streaming Ao Vivo",
     "url": "https://github.com/simoniz0r/twitch-wrapper/releases/download/v0.0.3/twitch-wrapper-0.0.3-x86_64.AppImage",
-    "icon": "",
+    "icon": "https://www.svgrepo.com/download/448251/twitch.svg",
     "category": "Entretaiment"
 },
 {
      "name": "Qr-code",
     "description": "Gerador de Qr-code",
     "url": "https://github.com/studioLaCosaNostra/qr-code-generator-desktop/releases/download/v1.0.27/qr-code-generator-desktop-1.0.27-x86_64.AppImage",
-    "icon": "",
+    "icon": "https://www.svgrepo.com/download/491113/qr-detailed.svg",
     "category": "Tools"
 },
 {
      "name": "qBittorrent",
     "description": "Baixar e enviar arquivos Torrent",
     "url": "https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/download/release-5.1.0.11/qBittorrent-Enhanced-Edition-x86_64.AppImage",
-    "icon": "",
+    "icon": "https://www.svgrepo.com/download/443524/brand-utorrent.svg",
     "category": "Tools"
 },
 {
@@ -162,8 +162,7 @@
 },
 {
      "name": "Blender",
-    "description": "Unofficial AppImages. 3D modeling, animation, rendering and post-production software.
-Built on top of the official portable builds. No changes made, other than renaming the blender-launcher script to AppRun and adding to the .desktop file.",
+    "description": "Unofficial AppImages. 3D modeling, animation, rendering and post-production software. Built on top of the official portable builds. No changes made, other than renaming the blender-launcher script to AppRun and adding to the .desktop file.",
     "url": "https://github.com/ivan-hc/Blender-appimage/releases/download/continuous-stable/Blender-4.4.2-stable+v44.085299abbee1-x86_64.AppImage",
     "icon": "https://www.svgrepo.com/download/353488/blender.svg",
     "category": "Tools"
