@@ -257,5 +257,33 @@
     "url": "https://download.kde.org/stable/falkon/3.0.1/Falkon-3.0.1.AppImage",
     "icon": "https://www.svgrepo.com/download/378800/falkon.svg",
     "category": "Browser"
+},
+  {
+    "name": "Snes9x",
+    "description": "Emulador de Super Nintendo",
+    "url": "https://github.com/snes9xgit/snes9x/releases/download/1.63/Snes9x-1.63-x86_64.AppImage",
+    "icon": "https://images.icon-icons.com/1508/PNG/512/snes9x_104646.png",
+    "category": "Games"
+  },
+{
+    "name": "PPSSPP",
+    "description": "Emulador de PsP",
+    "url": "https://github.com/pkgforge-dev/PPSSPP-AppImage/releases/download/1.18.1-5/ppsspp-1.18.1-5-anylinux-x86_64.AppImage",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/PPSSPP_logo.svg/2048px-PPSSPP_logo.svg.png",
+    "category": "Games"
+  },
+{
+    "name": "LibreOffice",
+    "description": "Pacote office Open Source",
+    "url": "https://appimages.libreitalia.org/LibreOffice-24.2.0.3.full-x86_64.AppImage",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LibreOffice_7.5_Main_Icon.svg/2048px-LibreOffice_7.5_Main_Icon.svg.png",
+    "category": "Tools"
+  },
+{
+    "name": "Lutris",
+    "description": "Agregador de jogos",
+    "url": "https://github.com/lucasmz1/Lutris_AppImage/releases/download/latest/Lutris-x86_64.AppImage",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Lutris_Game_Platform_%28Logo%29.svg/1024px-Lutris_Game_Platform_%28Logo%29.svg.png",
+    "category": "Games"
 }
 ]
