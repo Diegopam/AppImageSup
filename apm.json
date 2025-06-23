@@ -180,5 +180,82 @@
     "url": "https://github.com/ivan-hc/Chrome-appimage/releases/download/continuous/Google-Chrome-stable-137.0.7151.119-1-x86_64.AppImage",
     "icon": "https://www.svgrepo.com/download/485264/chrome-like.svg",
     "category": "Browser"
+},
+  {
+     "name": "Chromium-Browser",
+    "description": "Navegador de codigo Aberto",
+    "url": "https://github.com/ivan-hc/Chromium-Web-Browser-appimage/releases/download/continuous/Chromium-stable-137.0.7151.103-x86_64.AppImage",
+    "icon": "https://www.svgrepo.com/download/378787/chromium.svg",
+    "category": "Browser"
+},
+{
+     "name": "Firefox-Browser",
+    "description": "Navegador de internet Mozilla",
+    "url": "https://github.com/ivan-hc/Firefox-appimage/releases/download/continuous-stable/Firefox-stable-139.0.4-x86_64.AppImage",
+    "icon": "https://www.svgrepo.com/download/452204/firefox.svg",
+    "category": "Browser"
+},
+{
+     "name": "Gedit",
+    "description": "Editor de texto do Gnome",
+    "url": "https://github.com/ivan-hc/Gedit-appimage/releases/download/continuous/gedit_48.2-1-archimage4.3-x86_64.AppImage",
+    "icon": "https://flathub.org/_next/image?url=https%3A%2F%2Fdl.flathub.org%2Fmedia%2Forg%2Fgnome%2Fgedit.desktop%2F5091ab5588fbdd290a9b7cd690dfcae6%2Ficons%2F128x128%2Forg.gnome.gedit.desktop.png&w=128&q=100",
+    "category": "Tools"
+},
+{
+     "name": "Gnome-calculator",
+    "description": "Calculadora do Gnome",
+    "url": "https://github.com/ivan-hc/Gnome-calculator-appimage/releases/download/continuous/Calculator_48.1-2-archimage4.3-x86_64.AppImage",
+    "icon": "https://flathub.org/_next/image?url=https%3A%2F%2Fdl.flathub.org%2Fmedia%2Forg%2Fgnome%2FCalculator.desktop%2Fb41dee1f561870ca2932bf35f089dc2c%2Ficons%2F128x128%2Forg.gnome.Calculator.desktop.png&w=128&q=75",
+    "category": "Tools"
+},
+{
+     "name": "Edge-Browser",
+    "description": "Navegador de internet Microsoft",
+    "url": "https://github.com/ivan-hc/MS-Edge-appimage/releases/download/continuous/Microsoft-Edge-stable-137.0.3296.93-1-x86_64.AppImage",
+    "icon": "https://www.svgrepo.com/download/378791/edge.svg",
+    "category": "Browser"
+},
+{
+    "name": "Opera-Browser",
+    "description": "Navegador de internet",
+    "url": "https://github.com/ivan-hc/Opera-appimage/releases/download/continuous/Opera-Web-Browser-stable-119.0.5497.110-x86_64.AppImage",
+    "icon": "https://www.svgrepo.com/download/475662/opera-color.svg",
+    "category": "Browser"
+},
+{
+     "name": "Skype",
+    "description": "Conversa por chat via ligação",
+    "url": "https://github.com/ivan-hc/Skype-appimage/releases/download/continuous/Skype--8.150.0.125-x86_64.AppImage",
+    "icon": "https://www.svgrepo.com/download/475679/skype-color.svg",
+    "category": "Comunication"
+},
+{
+     "name": "Spotify",
+    "description": "Ouvir suas musicas",
+    "url": "https://github.com/ivan-hc/Spotify-appimage/releases/download/continuous/Spotify-1.2.60.564.gcc6305cb-x86_64.AppImage",
+    "icon": "https://www.svgrepo.com/download/475684/spotify-color.svg",
+    "category": "Entertaiment"
+},
+{
+     "name": "Thunderbird",
+    "description": "Receba Emails e envie",
+    "url": "https://github.com/srevinsaju/Thunderbird-AppImage/releases/download/stable/Thunderbird-115.5_20231208140222.AppImage",
+    "icon": "https://www.svgrepo.com/download/473807/thunderbird.svg",
+    "category": "Tools"
+},
+{
+     "name": "Vivalde-Browser",
+    "description": "Navegador de Internet seguro",
+    "url": "https://github.com/ivan-hc/Vivaldi-appimage/releases/download/continuous/Vivaldi-stable-7.4.3684.55-1-x86_64.AppImage",
+    "icon": "https://www.svgrepo.com/download/378765/vivaldi.svg",
+    "category": "Browser"
+},
+{
+     "name": "Falkon-Browser",
+    "description": "Navegador de Internet do KDE",
+    "url": "https://download.kde.org/stable/falkon/3.0.1/Falkon-3.0.1.AppImage",
+    "icon": "https://www.svgrepo.com/download/378800/falkon.svg",
+    "category": "Browser"
 }
 ]
