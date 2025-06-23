@@ -103,5 +103,83 @@
     "url": "https://github.com/ivan-hc/GIMP-appimage/releases/download/continuous-hybrid/GNU-Image-Manipulation-Program_2.10.38-4-Hybrid-with-python2-from-Debian-Buster-archimage3.4.1-1-x86_64.AppImage",
     "icon": "https://www.svgrepo.com/download/366177/gimp.svg",
     "category": "Editor"
+},
+  {
+     "name": "Youtube-Dowloader",
+    "description": "Baixar Videos e Audios do Youtube",
+    "url": "https://github.com/aandrew-me/ytDownloader/releases/download/v3.19.1/YTDownloader_Linux.AppImage",
+    "icon": "",
+    "category": "Entretaiment"
+},
+{
+     "name": "Youtube-Music",
+    "description": "Ouvir Musicas via Youtube Music",
+    "url": "https://github.com/th-ch/youtube-music/releases/download/v3.9.0/YouTube-Music-3.9.0.AppImage",
+    "icon": "",
+    "category": "Music"
+},
+{
+     "name": "Twitch",
+    "description": "Assistir streaming Ao Vivo",
+    "url": "https://github.com/simoniz0r/twitch-wrapper/releases/download/v0.0.3/twitch-wrapper-0.0.3-x86_64.AppImage",
+    "icon": "",
+    "category": "Entretaiment"
+},
+{
+     "name": "Qr-code",
+    "description": "Gerador de Qr-code",
+    "url": "https://github.com/studioLaCosaNostra/qr-code-generator-desktop/releases/download/v1.0.27/qr-code-generator-desktop-1.0.27-x86_64.AppImage",
+    "icon": "",
+    "category": "Tools"
+},
+{
+     "name": "qBittorrent",
+    "description": "Baixar e enviar arquivos Torrent",
+    "url": "https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/download/release-5.1.0.11/qBittorrent-Enhanced-Edition-x86_64.AppImage",
+    "icon": "",
+    "category": "Tools"
+},
+{
+    "name": "DuckStation",
+    "description": "DuckStation is an simulator/emulator of the Sony PlayStation(TM) console, focusing on playability, speed, and long-term maintainability.",
+    "url": "https://github.com/stenzek/duckstation/releases/download/latest/DuckStation-x64.AppImage",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Logo_Duckstation.svg",
+    "category": "Games"
+},
+{
+     "name": "RPCS3",
+    "description": "RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger written in C++ for Windows, Linux, macOS and FreeBSD. The purpose of the project is to completely and accurately emulate the Sony PlayStation 3 Computer Entertainment System in its entirety with the power of open-source community and reverse engineering. ",
+    "url": "https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-b0067e893456b4b6695371faab943bde5f4b935d/rpcs3-v0.0.37-18024-b0067e89_linux64.AppImage",
+    "icon": "https://rpcs3.net/img/graphics/branding/core-color.png",
+    "category": "Games"
+},
+{
+     "name": "RetroArch",
+    "description": "An attempt to use CI for nightly builds of RetroArch for Windows and Linux (via AppImage)",
+    "url": "https://github.com/hizzlekizzle/RetroArch-AppImage/releases/download/Linux_LTS_Nightlies/RetroArch-Linux-x86_64-Nightly.AppImage",
+    "icon": "https://www.svgrepo.com/download/306663/retroarch.svg",
+    "category": "Games"
+},
+{
+     "name": "Blender",
+    "description": "Unofficial AppImages. 3D modeling, animation, rendering and post-production software.
+Built on top of the official portable builds. No changes made, other than renaming the blender-launcher script to AppRun and adding to the .desktop file.",
+    "url": "https://github.com/ivan-hc/Blender-appimage/releases/download/continuous-stable/Blender-4.4.2-stable+v44.085299abbee1-x86_64.AppImage",
+    "icon": "https://www.svgrepo.com/download/353488/blender.svg",
+    "category": "Tools"
+},
+{
+     "name": "Brave-Browser",
+    "description": "Navegador de Internet seguro",
+    "url": "https://github.com/ivan-hc/Brave-appimage/releases/download/continuous-stable/Brave-Web-Browser-stable-1.79.126-x86_64.AppImage",
+    "icon": "https://www.svgrepo.com/download/378778/brave.svg",
+    "category": "Browser"
+},
+{
+     "name": "Chrome-Browser",
+    "description": "Navegador de Internet do Google",
+    "url": "https://github.com/ivan-hc/Chrome-appimage/releases/download/continuous/Google-Chrome-stable-137.0.7151.119-1-x86_64.AppImage",
+    "icon": "https://www.svgrepo.com/download/485264/chrome-like.svg",
+    "category": "Browser"
 }
 ]
