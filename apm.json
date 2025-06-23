@@ -12,5 +12,19 @@
     "url": "https://github.com/audacity/audacity/releases/download/Audacity-3.7.4/audacity-linux-3.7.4-x64-20.04.AppImage",
     "icon": "https://www.svgrepo.com/show/366598/audacity.svg",
     "category": "Audio"
+  },
+  {
+    "name": "Whatsapp",
+    "description": "Rade social de comunicação"
+    "url": "https://github.com/ivan-hc/WhatsApp-nativefier-appimage/releases/download/continuous/Whatsapp-nativefier-2.3000.1019818867-1-x86_64.AppImage",
+    "icon": "https://www.svgrepo.com/download/452133/whatsapp.svg",
+    "category": "Comunication"
+  },
+  {
+    "name": "Discord",
+    "description": "Rede social de comunicação",
+    "url": "https://github.com/srevinsaju/discord-appimage/releases/download/stable/Discord-0.0.98-x86_64.AppImage",
+    "icon": "https://www.svgrepo.com/download/343548/discord-communication-interaction-message-network.svg",
+    "category": "Comunication"
   }
 ]
