@@ -26,5 +26,82 @@
     "url": "https://github.com/srevinsaju/discord-appimage/releases/download/stable/Discord-0.0.98-x86_64.AppImage",
     "icon": "https://www.svgrepo.com/download/343548/discord-communication-interaction-message-network.svg",
     "category": "Comunication"
-  }
+  },
+  {
+     "name": "Telegram",
+    "description": "Rede social de comunicação",
+    "url": "https://github.com/srevinsaju/Telegram-AppImage/releases/download/v3.2.5/Telegram_Desktop-x86_64.AppImage",
+    "icon": "https://www.svgrepo.com/download/452115/telegram.svg",
+    "category": "Comunication"
+},
+  {
+     "name": "Steam",
+    "description": "Plataforma de jogos",
+    "url": "https://github.com/ivan-hc/Steam-appimage/releases/download/1.0.0.82-2/Steam-1.0.0.82-2-anylinux-x86_64.AppImage",
+    "icon": "https://www.svgrepo.com/download/452107/steam.svg",
+    "category": "Games"
+},
+  {
+     "name": "Youtube",
+    "description": "Rede social de entretenimento",
+    "url": "https://github.com/claudemods/YoutubeAndDownloader/releases/download/youtube/youtube_appimage-x86_64.AppImage",
+    "icon": "https://www.svgrepo.com/download/475700/youtube-color.svg",
+    "category": "Comunication"
+},
+  {
+     "name": "Obs Arch-Linux",
+    "description": "Gravador de tela e liveStream",
+    "url": "https://github.com/ivan-hc/OBS-Studio-appimage/releases/download/continuous/OBS-Studio_31.0.3-2-archimage4.3-x86_64.AppImage",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/archive/d/d3/20240901094627%21OBS_Studio_Logo.svg",
+    "category": "Tools"
+},
+  {
+     "name": "Microsoft Office 365",
+    "description": "Pacote office 365 online",
+    "url": "https://github.com/agam778/MS-365-Electron/releases/download/v2.0.0/MS-365-Electron-v2.0.0-linux-x86_64.AppImage",
+    "icon": "https://www.svgrepo.com/download/374994/office365.svg",
+    "category": "Tools"
+},
+  {
+     "name": "OnlyOffice",
+    "description": "Alternativo ao pacote Microsoft Office",
+    "url": "https://github.com/ONLYOFFICE/appimage-desktopeditors/releases/download/v8.3.3/DesktopEditors-x86_64.AppImage",
+    "icon": "https://www.svgrepo.com/download/518298/onlyoffice-documents.svg",
+    "category": "Tools"
+},
+  {
+     "name": "Facebook Messanger",
+    "description": "Rede social de comunicação",
+    "url": "https://github.com/sindresorhus/caprine/releases/download/v2.60.3/Caprine-2.60.3.AppImage",
+    "icon": "https://www.svgrepo.com/download/450236/messanger.svg",
+    "category": "Comunication"
+},
+  {
+     "name": "PCSX2",
+    "description": "Emulador de PlayStation 2",
+    "url": "https://github.com/ferion11/PCSX2_Appimage/releases/download/continuous-1.6.x/pcsx2-1.6.0-x86_64.AppImage",
+    "icon": "https://github.com/Jaffacakelover/emulator-icons-svg/blob/master/PCSX2.svg",
+    "category": "Games"
+},
+  {
+     "name": "Zen Browser",
+    "description": "Navegador seguro para internet",
+    "url": "https://github.com/zen-browser/desktop/releases/download/1.13.2b/zen-x86_64.AppImage",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Zen_Browser_logo_%28red_circles%29.svg/2048px-Zen_Browser_logo_%28red_circles%29.svg.png",
+    "category": "Browser"
+},
+  {
+     "name": "Hydra Launcher",
+    "description": "Plataforma de jogos",
+    "url": "https://github.com/hydralauncher/hydra/releases/download/v3.6.1/hydralauncher-3.6.1.AppImage",
+    "icon": "https://www.svgrepo.com/download/499235/hydra.svg",
+    "category": "Games"
+},
+  {
+     "name": "Gimp",
+    "description": "Editor de imagens",
+    "url": "https://github.com/ivan-hc/GIMP-appimage/releases/download/continuous-hybrid/GNU-Image-Manipulation-Program_2.10.38-4-Hybrid-with-python2-from-Debian-Buster-archimage3.4.1-1-x86_64.AppImage",
+    "icon": "https://www.svgrepo.com/download/366177/gimp.svg",
+    "category": "Editor"
+}
 ]
