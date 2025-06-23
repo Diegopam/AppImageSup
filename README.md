@@ -1,6 +1,6 @@
 # 🐧 APP - AppImage Package Manager
 
-O **APMP** é um gerenciador de AppImages leve, rápido e sem dependências externas.  
+O **APP** é um gerenciador de AppImages leve, rápido e sem dependências externas.  
 Com ele, você pode instalar, listar, atualizar, remover e buscar AppImages direto do terminal como se fosse um gerenciador de pacotes!
 
 > ⚡ Totalmente feito em Bash e usando um arquivo JSON hospedado neste repositório como "repositório de apps".
