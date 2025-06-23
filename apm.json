@@ -285,5 +285,40 @@
     "url": "https://github.com/lucasmz1/Lutris_AppImage/releases/download/latest/Lutris-x86_64.AppImage",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Lutris_Game_Platform_%28Logo%29.svg/1024px-Lutris_Game_Platform_%28Logo%29.svg.png",
     "category": "Games"
+},
+  {
+    "name": "VSCodium",
+    "description": "Editor de codigos e desenvolvimento",
+    "url": "https://github.com/VSCodium/vscodium/releases/download/1.101.14098/VSCodium-1.101.14098.glibc2.29-x86_64.AppImage",
+    "icon": "https://user-images.githubusercontent.com/1499476/90325153-1cac9a80-df46-11ea-967a-486d523f551b.png",
+    "category": "Tools"
+  },
+{
+    "name": "VSCode",
+    "description": "Editor de codigos e desenvolvimento",
+    "url": "https://github.com/valicm/VSCode-AppImage/releases/download/latest/VSCode-x86_64.AppImage",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png",
+    "category": "Tools"
+  },
+{
+    "name": "Obsidian",
+    "description": "Gerenciador de textos",
+    "url": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.10/Obsidian-1.8.10.AppImage",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/1200px-2023_Obsidian_logo.svg.png",
+    "category": "Tools"
+  },
+{
+    "name": "Scrcpy",
+    "description": "Conecte seu smartphone ao Pc",
+    "url": "https://github.com/srevinsaju/scrcpy-appimage/releases/download/continuous/scrcpy-v1.24-7-gc00a9ead-x86_64.AppImage",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Scrcpy_logo.svg/2048px-Scrcpy_logo.svg.png",
+    "category": "Tools"
+  },
+{
+    "name": "VirtualBox",
+    "description": "Crie maquinas virtuais",
+    "url": "https://github.com/ivan-hc/VirtualBox-appimage/releases/download/7.1.6/VirtualBox-KVM_7.1.6-archimage4.3-x86_64.AppImage",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Virtualbox_logo.svg/2048px-Virtualbox_logo.svg.png",
+    "category": "Tools"
 }
 ]
