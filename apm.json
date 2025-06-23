@@ -320,5 +320,96 @@
     "url": "https://github.com/ivan-hc/VirtualBox-appimage/releases/download/7.1.6/VirtualBox-KVM_7.1.6-archimage4.3-x86_64.AppImage",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Virtualbox_logo.svg/2048px-Virtualbox_logo.svg.png",
     "category": "Tools"
-}
+},
+    {
+    "name": "VLC",
+    "description": "Reprodutor de m\u00eddia",
+    "url": "https://github.com/ivan-hc/VLC-appimage/releases/download/continuous/VLC-media-player_3.0.21-24-archimage4.3-x86_64.AppImage",
+    "icon": "https://www.svgrepo.com/show/349556/vlc.svg",
+    "category": "Media"
+  },
+  {
+    "name": "Inkscape",
+    "description": "Editor vetorial",
+    "url": "https://inkscape.org/gallery/item/56343/Inkscape-ebf0e94-x86_64.AppImage",
+    "icon": "https://www.svgrepo.com/show/473662/inkscape.svg",
+    "category": "Editor"
+  },
+  {
+    "name": "Krita",
+    "description": "Pintura digital",
+    "url": "https://download.kde.org/stable/krita/5.2.9/krita-5.2.9-x86_64.appimage",
+    "icon": "https://www.svgrepo.com/show/454407/calligrakrita-draw-krita.svg",
+    "category": "Editor"
+  },
+  {
+    "name": "Shotcut",
+    "description": "Editor de v\u00eddeo",
+    "url": "https://github.com/mltframework/shotcut/releases/download/v25.05.11/shotcut-linux-x86_64-250511.AppImage",
+    "icon": "https://www.svgrepo.com/show/411364/cut.svg",
+    "category": "Video"
+  },
+  {
+    "name": "FreeCAD",
+    "description": "Modelagem CAD",
+    "url": "https://github.com/FreeCAD/FreeCAD/releases/download/1.0.1/FreeCAD_1.0.1-conda-Linux-x86_64-py311.AppImage",
+    "icon": "https://www.svgrepo.com/show/339860/cad.svg",
+    "category": "3D"
+  },
+  {
+    "name": "Etcher",
+    "description": "Criador de USB boot\u00e1vel",
+    "url": "https://github.com/balena-io/etcher/releases/download/v1.7.9/balenaEtcher-1.7.9-x64.AppImage",
+    "icon": "https://www.svgrepo.com/show/353471/balena.svg",
+    "category": "Tools"
+  },
+  {
+    "name": "Nextcloud",
+    "description": "Cliente Nextcloud",
+    "url": "https://github.com/nextcloud/desktop/releases/download/v3.6.2/Nextcloud-3.6.2-x86_64.AppImage",
+    "icon": "https://www.svgrepo.com/show/349455/nextcloud.svg",
+    "category": "Tools"
+  },
+  {
+    "name": "LibreWolf",
+    "description": "Navegador privado",
+    "url": "https://gitlab.com/api/v4/projects/24386000/packages/generic/librewolf/112.0-1/LibreWolf.x86_64.AppImage",
+    "icon": "https://www.svgrepo.com/show/258322/browser-web-page.svg",
+    "category": "Browser"
+  },
+  {
+    "name": "AppImageLauncher",
+    "description": "Integrador AppImage",
+    "url": "https://github.com/TheAssassin/AppImageLauncher/releases/download/v2.2.0/appimagelauncher-lite-2.2.0-travis995-0f91801-i386.AppImage",
+    "icon": "https://www.svgrepo.com/show/426796/character.svg",
+    "category": "Tools"
+  },
+  {
+    "name": "OpenShot",
+    "description": "Editor de v\u00eddeo",
+    "url": "https://github.com/OpenShot/openshot-qt/releases/download/v3.1.1/OpenShot-v3.1.1-x86_64.AppImage",
+    "icon": "https://www.svgrepo.com/show/421042/editor-films-production.svg",
+    "category": "Video"
+  },
+  {
+    "name": "LMMS",
+    "description": "Est\u00fadio musical",
+    "url": "https://github.com/LMMS/lmms/releases/download/v1.2.2/lmms-1.2.2-linux-x86_64.AppImage",
+    "icon": "https://www.svgrepo.com/show/330863/lmms.svg",
+    "category": "Audio"
+  },
+  {
+    "name": "KeePassXC",
+    "description": "Gestor de senhas",
+    "url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.4/KeePassXC-2.7.4-x86_64.AppImage",
+    "icon": "https://www.svgrepo.com/show/330777/keepassxc.svg",
+    "category": "Tools"
+  },
+  {
+    "name": "MuseScore",
+    "description": "Editor de partitura",
+    "url": "https://github.com/musescore/MuseScore/releases/download/v4.5.2/MuseScore-Studio-4.5.2.251141401-x86_64.AppImage",
+    "icon": "https://www.svgrepo.com/show/452070/musescore.svg",
+    "category": "Audio"
+  }
 ]
