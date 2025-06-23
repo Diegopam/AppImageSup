@@ -49,14 +49,14 @@
     "category": "Comunication"
 },
   {
-     "name": "Obs Arch-Linux",
+     "name": "Obs-Arch-Linux",
     "description": "Gravador de tela e liveStream",
     "url": "https://github.com/ivan-hc/OBS-Studio-appimage/releases/download/continuous/OBS-Studio_31.0.3-2-archimage4.3-x86_64.AppImage",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/archive/d/d3/20240901094627%21OBS_Studio_Logo.svg",
     "category": "Tools"
 },
   {
-     "name": "Microsoft Office 365",
+     "name": "Microsoft-Office-365",
     "description": "Pacote office 365 online",
     "url": "https://github.com/agam778/MS-365-Electron/releases/download/v2.0.0/MS-365-Electron-v2.0.0-linux-x86_64.AppImage",
     "icon": "https://www.svgrepo.com/download/374994/office365.svg",
@@ -70,7 +70,7 @@
     "category": "Tools"
 },
   {
-     "name": "Facebook Messanger",
+     "name": "Facebook-Messanger",
     "description": "Rede social de comunicação",
     "url": "https://github.com/sindresorhus/caprine/releases/download/v2.60.3/Caprine-2.60.3.AppImage",
     "icon": "https://www.svgrepo.com/download/450236/messanger.svg",
@@ -84,14 +84,14 @@
     "category": "Games"
 },
   {
-     "name": "Zen Browser",
+     "name": "Zen-Browser",
     "description": "Navegador seguro para internet",
     "url": "https://github.com/zen-browser/desktop/releases/download/1.13.2b/zen-x86_64.AppImage",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Zen_Browser_logo_%28red_circles%29.svg/2048px-Zen_Browser_logo_%28red_circles%29.svg.png",
     "category": "Browser"
 },
   {
-     "name": "Hydra Launcher",
+     "name": "Hydra-Launcher",
     "description": "Plataforma de jogos",
     "url": "https://github.com/hydralauncher/hydra/releases/download/v3.6.1/hydralauncher-3.6.1.AppImage",
     "icon": "https://www.svgrepo.com/download/499235/hydra.svg",
