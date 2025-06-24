@@ -1,5 +1,12 @@
 [
   {
+    "name": "VsCodium",
+    "description": "editor de codigos",
+    "url": "https://github.com/VSCodium/vscodium/releases/download/1.101.14098/VSCodium-1.101.14098.glibc2.29-x86_64.AppImage",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/5/56/VSCodium_Logo.png",
+    "category": "Tools"
+  },
+  {
     "name": "Appimagetool",
     "description": "Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.chat",
     "url": "https://github.com/AppImage/AppImageKit/releases/download/continuous/appimagetool-aarch64.AppImage",
