@@ -3015,5 +3015,40 @@
     "url": "https://github.com/ivan-hc/Abiword-appimage/releases/download/continuous/AbiWord_3.0.6-3-archimage4.3-x86_64.AppImage",
     "icon": "https://raw.githubusercontent.com/ivan-hc/Abiword-appimage/master/icon.png",
     "category": "Utility"
+  },
+  {
+    "name": "OnlyOffice",
+    "description": "Gerenciador Office Open Source",
+    "url": "https://github.com/ONLYOFFICE/appimage-desktopeditors/releases/download/v9.0.0/DesktopEditors-x86_64.AppImage",
+    "icon": "https://www.cybermania.ws/wp-content/uploads/ONLYOFFICE.png",
+    "category": "Tools"
+  },
+  {
+    "name": "LibreOffice",
+    "description": "Gerenciador Office Open Source",
+    "url": "https://appimages.libreitalia.org/LibreOffice-fresh.full-x86_64.AppImage",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/8/87/LibreOffice_7.5_Calc_Icon.png",
+    "category": "Tools"
+  },
+  {
+    "name": "kdenlive",
+    "description": "Editor de videos do KDE",
+    "url": "https://download.kde.org/stable/kdenlive/25.04/linux/kdenlive-25.04.2-x86_64.AppImage",
+    "icon": "https://kdenlive.org/images/logo-colored.svg",
+    "category": "Tools"
+  },
+  {
+    "name": "darktable",
+    "description": "darktable is an open source photography workflow application and raw developer. A virtual lighttable and darkroom for photographers. It manages your digital negatives in a database, lets you view them through a zoomable lighttable and enables you to develop raw images and enhance them.",
+    "url": "https://github.com/darktable-org/darktable/releases/download/release-5.2.0/Darktable-5.2.0-x86_64.AppImage",
+    "icon": "https://commons.wikimedia.org/wiki/File:Darktable_icon.svg",
+    "category": "Tools"
+  },
+  {
+    "name": "rawtherapee",
+    "description": "RawTherapee is a free, cross-platform raw image processing program",
+    "url": "https://rawtherapee.com/shared/builds/linux/RawTherapee_5.12_release.AppImage",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/RawTherapee_logo-circle.svg/101px-RawTherapee_logo-circle.svg.png",
+    "category": "Tools"
   }
 ]
