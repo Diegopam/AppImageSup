@@ -85,7 +85,17 @@ instalar_app() {
 
 listar_apps() {
   echo "📦 Lista de apps disponíveis:"
-  baixar_json | grep -oP '"name"\s*:\s*"\K[^"]+' | sort
+  local apps=($(baixar_json | grep -oP '"name"\s*:\s*"\K[^"]+' | sort))
+  local total=${#apps[@]}
+  local metade=$(( (total + 1) / 2 ))
+
+  for ((i = 0; i < metade; i++)); do
+    printf "  %-30s" "${apps[i]}"
+    if [ $((i + metade)) -lt $total ]; then
+      printf " %s" "${apps[i + metade]}"
+    fi
+    echo
+  done
 }
 
 buscar_apps() {
