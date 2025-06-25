@@ -3,1526 +3,1526 @@
     "name": "VsCodium",
     "description": "editor de codigos",
     "url": "https://github.com/VSCodium/vscodium/releases/download/1.101.14098/VSCodium-1.101.14098.glibc2.29-x86_64.AppImage",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/5/56/VSCodium_Logo.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH5RgIHYRc8JNQCLfhWmf09GxawJwGxhAtN1J5o9UvL518KM3ceubkubRGgKI&s",
     "category": "Tools"
   },
   {
     "name": "Appimagetool",
     "description": "Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.chat",
     "url": "https://github.com/AppImage/AppImageKit/releases/download/continuous/appimagetool-aarch64.AppImage",
-    "icon": "https://raw.githubusercontent.com/AppImage/AppImageKit/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMh8KTC4QGBKhW7Srth5uBou3IpkvDPIMJqHe_dkycAUSEbUd0KDlK6FWkxA&s",
     "category": "Utility"
   },
   {
     "name": "Appimagelauncher-lite",
     "description": "Helper application for Linux distributions serving as a kind of \"entry point\" for running and integrating AppImages",
     "url": "https://github.com/TheAssassin/AppImageLauncher/releases/download/continuous/appimagelauncher-lite-3.0.0-alpha-4-gha261-aarch64.AppImage",
-    "icon": "https://raw.githubusercontent.com/TheAssassin/AppImageLauncher/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfCgrciTe64cM7WoSxuPc3kKotwsiE_t-BOACnBdH9OnRispuLJE-lT3P8lQ&s",
     "category": "Utility"
   },
   {
     "name": "Appimaged-891",
     "description": "Go implementation of AppImage tools",
     "url": "https://github.com/probonopd/go-appimage/releases/download/continuous/appimaged-891-aarch64.AppImage",
-    "icon": "https://raw.githubusercontent.com/probonopd/go-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMh8KTC4QGBKhW7Srth5uBou3IpkvDPIMJqHe_dkycAUSEbUd0KDlK6FWkxA&s",
     "category": "Utility"
   },
   {
     "name": "Pkg2appimage-1eceb30",
     "description": "Tool and recipes to convert existing deb packages to AppImage ",
     "url": "https://github.com/AppImageCommunity/pkg2appimage/releases/download/continuous/pkg2appimage-1eceb30-aarch64.AppImage",
-    "icon": "https://raw.githubusercontent.com/AppImageCommunity/pkg2appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT55sfyclRWcHe-oavShRADE1fOc5udMHU85lcPntysRuF54QFYks1zUz4Ng&s",
     "category": "Utility"
   },
   {
     "name": "Appimagepool-5.1.0",
     "description": "A simple, modern AppImageHub Client, powered by flutter.",
     "url": "https://github.com/prateekmedia/appimagepool/releases/download/5.1.0/appimagepool-5.1.0-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/prateekmedia/appimagepool/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTfGAyloQkfqGKrLngeWqcUAAwnKCGIMnYupFQRUCUHOkG9yTPwPVEv0Pvh1I&s",
     "category": "Utility"
   },
   {
     "name": "Appimageupdate",
     "description": "AppImageUpdate lets you update AppImages in a decentral way using information embedded in the AppImage itself.",
     "url": "https://github.com/AppImageCommunity/AppImageUpdate/releases/download/continuous/AppImageUpdate-aarch64.AppImage",
-    "icon": "https://raw.githubusercontent.com/AppImageCommunity/AppImageUpdate/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTF2ZgcRUrnCXdW8mCLSK8ysHyHSMGITugVs0W_uklAx8hhhUbP1GWfmWxzw&s",
     "category": "Utility"
   },
   {
     "name": "Wine-x86",
     "description": "Appimage For Wine",
     "url": "https://github.com/Hackerl/Wine_Appimage/releases/download/v3.0/Wine-x86_64-debian.buster.AppImage",
-    "icon": "https://raw.githubusercontent.com/Hackerl/Wine_Appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh4A5PeSmI7Mb4sh9-oPNAA2I9TzRERmTOQ9eQwv4GnDE57JnHu4G3DErDEQ&s",
     "category": "Utility"
   },
   {
     "name": "Minecraft-bedrock",
     "description": "Only for Github Actions, The hacked linux-packaging-scripts of minecraft-linux (endless tweaked)",
     "url": "https://github.com/minecraft-linux/appimage-builder/releases/download/v1.1.1-802/Minecraft_Bedrock_Launcher-arm64-v1.1.1.802.AppImage",
-    "icon": "https://raw.githubusercontent.com/minecraft-linux/appimage-builder/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQled80pW166a6xgqrQazHpxNKPqwtFXEALLF6UdZJ6LRNna4AvpofWQxnFr8k&s",
     "category": "Utility"
   },
   {
     "name": "Appimage-builder",
     "description": "GNU/Linux packaging solution using the AppImage format",
     "url": "https://github.com/AppImageCrafters/appimage-builder/releases/download/Continuous/appimage-builder-1.1.1.dev32%2Bg2709a3b-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/AppImageCrafters/appimage-builder/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmUTWV1yyj6QUL-aL2Dvm_rYQvmUCZysdDF2w0LF2TrHNuO9aKwlHbD-vJWJo&s",
     "category": "Utility"
   },
   {
     "name": "Appstreamcli-x86",
     "description": "Given an URL to an AppImage, the GitHub action in this project inspects the AppImage and puts it into a community-maintained catalog",
     "url": "https://github.com/AppImage/appimage.github.io/releases/download/deps/appstreamcli-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/AppImage/appimage.github.io/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUz4J9zIus0BhmAbUemPBPkd7Q-5OSwIw15aYASavbfgrC7gozCgq_9uXFiA&s",
     "category": "Utility"
   },
   {
     "name": "Appimaged",
     "description": "appimaged is a daemon that monitors the system and integrates AppImages.",
     "url": "https://github.com/AppImageCommunity/appimaged/releases/download/continuous/appimaged-i386.AppImage",
-    "icon": "https://raw.githubusercontent.com/AppImageCommunity/appimaged/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMh8KTC4QGBKhW7Srth5uBou3IpkvDPIMJqHe_dkycAUSEbUd0KDlK6FWkxA&s",
     "category": "Utility"
   },
   {
     "name": "Appimagetool-2",
     "description": "A low-level tool to generate an AppImage from an existing AppDir",
     "url": "https://github.com/AppImage/appimagetool/releases/download/continuous/appimagetool-aarch64.AppImage",
-    "icon": "https://raw.githubusercontent.com/AppImage/appimagetool/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMh8KTC4QGBKhW7Srth5uBou3IpkvDPIMJqHe_dkycAUSEbUd0KDlK6FWkxA&s",
     "category": "Utility"
   },
   {
     "name": "Python3.9.13-cp39",
     "description": "AppImage distributions of Python",
     "url": "https://github.com/niess/python-appimage/releases/download/python3.9/python3.9.13-cp39-cp39-manylinux2010_i686.AppImage",
-    "icon": "https://raw.githubusercontent.com/niess/python-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcADTHTzS14k6opQ7HYNYKClkzZ3ofbY3IQkUImTzKGsirwrTkcf-dh-GLfqU&s",
     "category": "Utility"
   },
   {
     "name": "Gimp-appimage",
     "description": null,
     "url": "https://github.com/aferrero2707/gimp-appimage/releases/download/continuous/GIMP_AppImage-git-2.10.13-20191010-withplugins-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/aferrero2707/gimp-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXs0-g2lKNzMYdkYHhpYLVDOko4JCuDnv80htRrOyVU37dwKC-SYzfm3-IF-g&s",
     "category": "Utility"
   },
   {
     "name": "Citron-046538bb4",
     "description": "Unofficial AppImage of Citron, with optimized builds for modern cpus. [Maintainer=@Samueru-sama] ",
     "url": "https://github.com/pkgforge-dev/Citron-AppImage/releases/download/nightly/Citron-046538bb4-anylinux-aarch64.AppImage",
-    "icon": "https://raw.githubusercontent.com/pkgforge-dev/Citron-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScgLYgvkSdB033-YboKnzvvR0IDpZHr4HoM-TrcKpML9CGNx5tSZ2WZkPhQQ&s",
     "category": "Utility"
   },
   {
     "name": "Firefox-nightly",
     "description": "Mozilla Firefox Stable AppImages by Continuous Integration",
     "url": "https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox-nightly/firefox-nightly-141.0.r20250623065250-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/srevinsaju/Firefox-Appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6eHUnmV3Q7xgsgabiVEduIKkbnGbKsRLh9LpcgrIFCKcljkSzI7DadE_Bzxc&s",
     "category": "Utility"
   },
   {
     "name": "Gvim-v9.1.1476.glibc2.34",
     "description": "AppImage for gVim",
     "url": "https://github.com/vim/vim-appimage/releases/download/v9.1.1476/GVim-v9.1.1476.glibc2.34-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/vim/vim-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjyPmI86KJSOygHUFMj8szelolQV9KGCTs5_GSVWNp03Rb-NMoUntcVaXZQSQ&s",
     "category": "Utility"
   },
   {
     "name": "Deb2appimage-0.0.5",
     "description": "Build AppImages from deb packages on any distro with simple json configuration",
     "url": "https://github.com/simoniz0r/deb2appimage/releases/download/v0.0.5/deb2appimage-0.0.5-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/simoniz0r/deb2appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfRr8OplUXqAGimp_QFckQHuI2QbeLygS347fFbD_XGBMnR8GVbPs5KN3zIac&s",
     "category": "Utility"
   },
   {
     "name": "Wine-devel",
     "description": null,
     "url": "https://github.com/mmtrt/WINE_AppImage/releases/download/test-wineaiso/wine-devel_10.0-rc3-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/mmtrt/WINE_AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh4A5PeSmI7Mb4sh9-oPNAA2I9TzRERmTOQ9eQwv4GnDE57JnHu4G3DErDEQ&s",
     "category": "Utility"
   },
   {
     "name": "Appimage-cli",
     "description": "AppImage package manager",
     "url": "https://github.com/AppImageCrafters/appimage-cli-tool/releases/download/v0.1.4/appimage-cli-tool-0.1.4-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/AppImageCrafters/appimage-cli-tool/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmUTWV1yyj6QUL-aL2Dvm_rYQvmUCZysdDF2w0LF2TrHNuO9aKwlHbD-vJWJo&s",
     "category": "Utility"
   },
   {
     "name": "Plex-media",
     "description": " Linux AppImage packages for Plex Media Player application.",
     "url": "https://github.com/knapsu/plex-media-player-appimage/releases/download/v2.58.1-ae73e074/Plex_Media_Player_2.58.1-ae73e074_x64.AppImage",
-    "icon": "https://raw.githubusercontent.com/knapsu/plex-media-player-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTAjOz8UMWuT9XCd_IZmqDuo6iNliUq4KLnHUGW4WimEAgoEPUjGh7AzNTEjo&s",
     "category": "Utility"
   },
   {
     "name": "Waterfox-g",
     "description": "Unofficial repository with Waterfox Web Browser packages for Ubuntu, Debian (deb), Arch Linux (pkg.tar.xz), Fedora, CentOS 7, Alma, Rocky and openSUSE (rpm) and AppImage packages for all distros following with CentOS 7.",
     "url": "https://github.com/hawkeye116477/waterfox-deb-rpm-arch-AppImage/releases/download/AppImage_glibc2.17/waterfox-g-6.0.17-83.1.Build83.4.glibc2.17-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/hawkeye116477/waterfox-deb-rpm-arch-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi7xoVgAPS-Q7n8HIBr9VNqb_zEDxrRy4cevqKni5geZR__-VdfAlFtnhl2w&s",
     "category": "Utility"
   },
   {
     "name": "Desktopeditors-x86",
     "description": "Portable version of ONLYOFFICE Desktop Editors ",
     "url": "https://github.com/ONLYOFFICE/appimage-desktopeditors/releases/download/v9.0.0/DesktopEditors-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ONLYOFFICE/appimage-desktopeditors/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMaY4EhW_xbvm0dN917TRQAVsOI50TNj2lm0ZjhTCYPZr3ib62I3wDk9gj3w&s",
     "category": "Utility"
   },
   {
     "name": "Ghostty-1.1.4",
     "description": "👻 ⚙️ AppImage for Ghostty Terminal Emulator [Maintainer=@psadi]",
     "url": "https://github.com/pkgforge-dev/ghostty-appimage/releases/download/tip/Ghostty-1.1.4-main%2B373fc6b-aarch64.AppImage",
-    "icon": "https://raw.githubusercontent.com/pkgforge-dev/ghostty-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSddxCz_6bcbjns9P4CmFIJgnD4z1NtyaiBGk394-xBHJHCnRr05_0oMbqsBho&s",
     "category": "Utility"
   },
   {
     "name": "Cargo-appimage",
     "description": "Converts your crate into an AppImage",
     "url": "https://github.com/StratusFearMe21/cargo-appimage/releases/download/v2.2.0/cargo-appimage-runner.AppImage",
-    "icon": "https://raw.githubusercontent.com/StratusFearMe21/cargo-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXbLLUKDJ0zZD440tLMEPMqk1gIJXQ9yQOBSnSjoB72FYObTjukcRN3_Q4cxM&s",
     "category": "Utility"
   },
   {
     "name": "Discord-0.0.98",
     "description": "Continuous Integration to create Discord AppImages directly from source",
     "url": "https://github.com/srevinsaju/discord-appimage/releases/download/stable/Discord-0.0.98-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/srevinsaju/discord-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPFELc1cwD5AgrX3PLTSueT3L_YgjT7Y3_KrPEMKI6JWeTmnPQBAiw9pd_DA&s",
     "category": "Utility"
   },
   {
     "name": "Prusaslicer-2.9.2",
     "description": "PrusaSlicer packaged in a ARM AppImage. Pre-built AppImages located within releases.",
     "url": "https://github.com/davidk/PrusaSlicer-ARM.AppImage/releases/download/version_2.9.2/PrusaSlicer-2.9.2-aarch64-full.AppImage",
-    "icon": "https://raw.githubusercontent.com/davidk/PrusaSlicer-ARM.AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTc4zMFsyzhsIRSsbSCnlY7P6XtKyeQJ8jmnEFAdMf0xiRbNtaqMELW_qPx40&s",
     "category": "Utility"
   },
   {
     "name": "Steam-1.0.0.82",
     "description": "Unofficial Steam AppImage built using Runimage.",
     "url": "https://github.com/ivan-hc/Steam-appimage/releases/download/1.0.0.82-2/Steam-1.0.0.82-2-anylinux-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ivan-hc/Steam-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR29yFtytdS5JEXlAKT6_NRemriiPqsXIqUtE8zbDPtUlmgWEnIU2J_NLGEDoU&s",
     "category": "Utility"
   },
   {
     "name": "Emacs-master",
     "description": null,
     "url": "https://github.com/blahgeek/emacs-appimage/releases/download/github-action-build-15837861313/Emacs-master-gtk3-aarch64.AppImage",
-    "icon": "https://raw.githubusercontent.com/blahgeek/emacs-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhwlm5SUe0Nk6v27fKfk8Zxc3GWl0k8RnAa7lTs_voOWlJ0mmt45vbcIcnAWQ&s",
     "category": "Utility"
   },
   {
     "name": "Brave-nightly",
     "description": null,
     "url": "https://github.com/srevinsaju/Brave-AppImage/releases/download/v1.82.15/Brave-nightly-v1.82.15-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/srevinsaju/Brave-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTk85Eh0uc-dRUyF7CtxU8MKGPXeZ68TJVUAc7I0QdqoIxh18RoI_tGhe90cA&s",
     "category": "Utility"
   },
   {
     "name": "Zoom-workplace",
     "description": "An AppImage for the Zoom desktop application (until Zoom provides an official one)",
     "url": "https://github.com/probonopd/Zoom.AppImage/releases/download/stable/Zoom_Workplace-6.4.3.827.glibc2.27-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/probonopd/Zoom.AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_ZJ7C9RtT_DtlhKRLgpcWO8BQu8EaM9LQEHE7naiHh7inJnzedGrov9Yuvg&s",
     "category": "Utility"
   },
   {
     "name": "Gnu-image",
     "description": "GNU Image Manipulation Program Stable, GIT, Developer Edition and Hybrid.",
     "url": "https://github.com/ivan-hc/GIMP-appimage/releases/download/continuous-git/GNU-Image-Manipulation-Program_GIT_54975.b2ae719c419-1-archimage4.3-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ivan-hc/GIMP-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOV7O_ranvS7RKQ2i6d4S1oHAIk0uX-NeMgWwZ_vKtyA5lL3CCUMjqe3WN4_I&s",
     "category": "Utility"
   },
   {
     "name": "Basiliskii",
     "description": "Builds the popular classic Macintosh emulators BasiliskII and SheepShaver from source to create AppImages",
     "url": "https://github.com/Korkman/macemu-appimage-builder/releases/download/continuous/BasiliskII-aarch64.AppImage",
-    "icon": "https://raw.githubusercontent.com/Korkman/macemu-appimage-builder/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5jI1sjUWxBbMuKsHvrmOsbYIJPdB3SojClrJG2-rD4Px9eO8u_U9GjbS2kxo&s",
     "category": "Utility"
   },
   {
     "name": "Netease-cloud",
     "description": "netease-cloud-music AppImage",
     "url": "https://github.com/holazt/netease-cloud-music-appimage/releases/download/1.2.0.3-2/NetEase_Cloud_Music-1.2.0.3-2-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/holazt/netease-cloud-music-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZPRNxdC4wL4ZfVAkNydHEbaE_otaSu6XRswTOC1JlRq4y0LslsuOGsYw4jA&s",
     "category": "Utility"
   },
   {
     "name": "Emacs-29.4.glibc2.29",
     "description": "This repository builds GNU Emacs from git on Travis CI and packages it as an AppImage.",
     "url": "https://github.com/probonopd/Emacs.AppImage/releases/download/continuous/Emacs-29.4.glibc2.29-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/probonopd/Emacs.AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhwlm5SUe0Nk6v27fKfk8Zxc3GWl0k8RnAa7lTs_voOWlJ0mmt45vbcIcnAWQ&s",
     "category": "Utility"
   },
   {
     "name": "Appimagelint-x86",
     "description": "Check AppImages for compatibility, best practices etc. Powerful functionality combined with simple usage and human-friendly feedback.",
     "url": "https://github.com/TheAssassin/appimagelint/releases/download/continuous/appimagelint-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/TheAssassin/appimagelint/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZ1ArLI3hlcrc2OFOChIbw7apYhauQpdTzgOq9hXRnD-P9sFoMISxqyRfu5c&s",
     "category": "Utility"
   },
   {
     "name": "Notion-3.10.0",
     "description": "Notion desktop app on Linux as AppImage",
     "url": "https://github.com/kidonng/notion-appimage/releases/download/3.10.0-1/Notion-3.10.0-1.AppImage",
-    "icon": "https://raw.githubusercontent.com/kidonng/notion-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTMECsPMXf_oQCFlxffF96lQe6dahjmzBDW3lB6EOdiSxKzm6i272fl_v-OA&s",
     "category": "Utility"
   },
   {
     "name": "Wechat-lite",
     "description": "Linux 运行微信（可能是）最简单的方法，支持 debian/Arch/RHEL 三大发行版系列",
     "url": "https://github.com/KZ25T/wechat-appimage/releases/download/v1.0.0.241%2Ball_distro/wechat-lite-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/KZ25T/wechat-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSObFQ1S62TMd4BuYOqj64HPJ_x_ULRznzGWF1P6VvQ_gMEoBhUVBqk8SLqwg&s",
     "category": "Utility"
   },
   {
     "name": "Vscode-x86",
     "description": "Unofficial / Community provided Visual Studio Code AppImage - stable release",
     "url": "https://github.com/valicm/VSCode-AppImage/releases/download/latest/VSCode-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/valicm/VSCode-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD2ST3q9IAMQmL5wSTTzoxiySzCfDEKjTQfBlctTZajZQ1IV5glU-vU9NiH8Q&s",
     "category": "Utility"
   },
   {
     "name": "Dolphin-emulator",
     "description": "Dolphin emu is a Nintendo Game Cube and Wii emulator, it allows the computer gammers enjoy both Consoles in the computer with the capability of 1080p [Maintainer=@lucasmz1|@Samueru-sama]",
     "url": "https://github.com/pkgforge-dev/Dolphin-emu-AppImage/releases/download/nightly/Dolphin_Emulator-c2aaca2b1-anylinux.dwarfs-aarch64.AppImage",
-    "icon": "https://raw.githubusercontent.com/pkgforge-dev/Dolphin-emu-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_o3_I85WYJrUwaYRozPOxnNm_RrcdSUOcz43m4BpsTEQT0xTDs1RbG3N0Ag&s",
     "category": "Utility"
   },
   {
     "name": "Appimagecraft",
     "description": "Powerful build script generator with a focus on making AppImages.",
     "url": "https://github.com/TheAssassin/appimagecraft/releases/download/continuous/appimagecraft-aarch64.AppImage",
-    "icon": "https://raw.githubusercontent.com/TheAssassin/appimagecraft/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPvIPFu49_UGY-3h32dd8so4-EKPdc2y-mdOyhe8FuGpjar67oAz5jceA2fAw&s",
     "category": "Utility"
   },
   {
     "name": "Wine-staging",
     "description": "Appimage for Wine 32bits from PlayOnLinux - You can run on no-multilib system",
     "url": "https://github.com/ferion11/Wine_Appimage/releases/download/v5.11/wine-staging-linux-x86-v5.11-PlayOnLinux-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ferion11/Wine_Appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh4A5PeSmI7Mb4sh9-oPNAA2I9TzRERmTOQ9eQwv4GnDE57JnHu4G3DErDEQ&s",
     "category": "Utility"
   },
   {
     "name": "Appimageupdater-v2.0.0",
     "description": "AppImage Updater for Humans built with QML/C++ with Qt5  :heart:.",
     "url": "https://github.com/antony-jr/AppImageUpdater/releases/download/v2.0.0/AppImageUpdater-v2.0.0-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/antony-jr/AppImageUpdater/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTF2ZgcRUrnCXdW8mCLSK8ysHyHSMGITugVs0W_uklAx8hhhUbP1GWfmWxzw&s",
     "category": "Utility"
   },
   {
     "name": "Streamlink-7.4.0",
     "description": "Streamlink Linux AppImage builds",
     "url": "https://github.com/streamlink/streamlink-appimage/releases/download/7.4.0-1/streamlink-7.4.0-1-cp313-cp313-manylinux_2_28_aarch64.AppImage",
-    "icon": "https://raw.githubusercontent.com/streamlink/streamlink-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX_ss_sDjnH_Y6RfHCwD1Ta2VX7xqba3zmE2DadclqdwxOx2w9e6voXO6zJoM&s",
     "category": "Utility"
   },
   {
     "name": "Wechat-4.0.0.21",
     "description": "微信客户端Linux AppImage. AppImage version of wechat for linux desktop. ",
     "url": "https://github.com/zydou/WeChat-AppImage/releases/download/4.0.0.21/WeChat-4.0.0.21-aarch64.AppImage",
-    "icon": "https://raw.githubusercontent.com/zydou/WeChat-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSObFQ1S62TMd4BuYOqj64HPJ_x_ULRznzGWF1P6VvQ_gMEoBhUVBqk8SLqwg&s",
     "category": "Utility"
   },
   {
     "name": "Bottles-51.21",
     "description": "Unofficial AppImage of \"Bottles\", an app to run Windows software and games on Linux.",
     "url": "https://github.com/ivan-hc/Bottles-appimage/releases/download/51.21-3/Bottles_51.21-3-archimage4.3-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ivan-hc/Bottles-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7-gfa5F16mY9w0xYPCSzg0tN-h-kCGBUETFayKISk0Ded_J-Z7paYsRzIMA&s",
     "category": "Utility"
   },
   {
     "name": "Linuxdeploy-plugin",
     "description": "Plugin for linuxdeploy. Creates AppImages from AppDirs.",
     "url": "https://github.com/linuxdeploy/linuxdeploy-plugin-appimage/releases/download/continuous/linuxdeploy-plugin-appimage-aarch64.AppImage",
-    "icon": "https://raw.githubusercontent.com/linuxdeploy/linuxdeploy-plugin-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV575zzIaRSrItfNu5o6BtbPMJlTeLcUoab9mgjTRohsgdOq2gR50JarekgZw&s",
     "category": "Utility"
   },
   {
     "name": "Google-chrome",
     "description": "Unofficial AppImages of Google Chrome Stable, Beta and Unstable.",
     "url": "https://github.com/ivan-hc/Chrome-appimage/releases/download/continuous/Google-Chrome-beta-138.0.7204.35-1-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ivan-hc/Chrome-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDs-PppivfI9Gg09uxO4-JVUcIgs56uemJhojJLjgIblPmlcxY50Ygdu5t4Q8&s",
     "category": "Utility"
   },
   {
     "name": "Vlc-media",
     "description": "Unofficial, VLC Video and Media Player.",
     "url": "https://github.com/ivan-hc/VLC-appimage/releases/download/continuous/VLC-media-player_3.0.21-24-archimage4.3-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ivan-hc/VLC-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3pYNbcRG5G77oXrLQub59Ik3IL2ROj2HV_h8kWWBfz5s7kEOG76gNyzfmVg&s",
     "category": "Utility"
   },
   {
     "name": "0ad-0.27.0",
     "description": "@0ad appimage",
     "url": "https://github.com/0ad-matters/0ad-appimage/releases/download/v0.27.0/0ad-0.27.0-aarch64.AppImage",
-    "icon": "https://raw.githubusercontent.com/0ad-matters/0ad-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDpNh3mF3QsT5-g65tcnqdu2QBur0pGGsZ1ZcnSgdRJa2JkmOwkWZ69FvGng&s",
     "category": "Utility"
   },
   {
     "name": "Virtualbox-kvm",
     "description": "Unofficial, KVM backend for the open source virtualization tool VirtualBox.",
     "url": "https://github.com/ivan-hc/VirtualBox-appimage/releases/download/7.1.6/VirtualBox-KVM_7.1.6-archimage4.3-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ivan-hc/VirtualBox-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ5xNZTbxrPtHeJoWD7IZklHOVFGz1Cvn7kIOBy6GYPCgAZv01uHt1-RGbpe4&s",
     "category": "Utility"
   },
   {
     "name": "Podman-4.2.1",
     "description": "AppImage of podman",
     "url": "https://github.com/popsUlfr/podman-appimage/releases/download/v4.2.1-r1/podman-4.2.1-r1-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/popsUlfr/podman-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyL1TJI3vEU-CsmFyooC2NQ1ohmHbzfxiwfSZ3tIaTSOt7b9q6osRUY26K4g&s",
     "category": "Utility"
   },
   {
     "name": "Minetest-5.8.0",
     "description": "Minetest Appimages",
     "url": "https://github.com/An0n3m0us/Minetest-AppImages/releases/download/5.8.0/Minetest-5.8.0-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/An0n3m0us/Minetest-AppImages/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXV23lAWJV7QdiXtDligktQAD7Vv2CPJqLzl_WPh1L7NJcIFUzKa8YTUrXA0c&s",
     "category": "Utility"
   },
   {
     "name": "Ibus-rime",
     "description": null,
     "url": "https://github.com/hchunhui/ibus-rime.AppImage/releases/download/continuous/ibus-rime-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/hchunhui/ibus-rime.AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWg1JeQnpt4Ia5ASO_xVIx-nhyvyFg2VBdDw40tMvaS9dPgaR5rNAZrrfLCA&s",
     "category": "Utility"
   },
   {
     "name": "Obs-studio",
     "description": "Unofficial, a free and open-source, cross-platform screencasting and live streaming app.",
     "url": "https://github.com/ivan-hc/OBS-Studio-appimage/releases/download/continuous/OBS-Studio_31.0.3-2-archimage4.3-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ivan-hc/OBS-Studio-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpFqKILkq5aaBe0MN6Ew5YAoUWJhzZ-_akn0INlObJB84Z5H1DygvX5xYfxnM&s",
     "category": "Utility"
   },
   {
     "name": "Spotify-1.2.60.564.gcc6305cb",
     "description": "Unofficial AppImage for Spotify built on top of the Snap package.",
     "url": "https://github.com/ivan-hc/Spotify-appimage/releases/download/continuous/Spotify-1.2.60.564.gcc6305cb-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ivan-hc/Spotify-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6MyuGQ7y2rr_y8btLpkkzMhiKoTvH1Rcqg1X2GHsZdMEsUn0fos6EBGftl2w&s",
     "category": "Utility"
   },
   {
     "name": "Postman-10.0.1",
     "description": "Postman AppImage format (Unofficial)",
     "url": "https://github.com/suciptoid/postman-appimage/releases/download/continous/Postman-10.0.1-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/suciptoid/postman-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYu0GaC0VpEAFalXTAaBRCuGbWZ4TqpbwveSoCwR6v8OJx3y2GGz6Tlc_0oWw&s",
     "category": "Utility"
   },
   {
     "name": "Discord-x86",
     "description": "AppImage builds for Discord Stable, Discord PTB, and Discord Canary",
     "url": "https://github.com/simoniz0r/Discord-AppImage/releases/download/discord-stable/discord-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/simoniz0r/Discord-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPFELc1cwD5AgrX3PLTSueT3L_YgjT7Y3_KrPEMKI6JWeTmnPQBAiw9pd_DA&s",
     "category": "Utility"
   },
   {
     "name": "Thunderbird-115.5",
     "description": "unofficial AppImages for  Mozilla Thunderbird Mail Client",
     "url": "https://github.com/srevinsaju/Thunderbird-AppImage/releases/download/stable/Thunderbird-115.5_20231208140222.AppImage",
-    "icon": "https://raw.githubusercontent.com/srevinsaju/Thunderbird-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUuBICFk3uTLZ84tR50V6une49qSp2F76uRascU6EPbk3d8dtqaz01QW8WYg&s",
     "category": "Utility"
   },
   {
     "name": "Love-0.10.2",
     "description": "Scripts to create AppImages of löve (https://love2d.org/)",
     "url": "https://github.com/pfirsich/love-appimages/releases/download/v3/love-0.10.2-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/pfirsich/love-appimages/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSKn2_fG2b0tBooFivnVewb5OBUrcDveDtj3rIHaj7yF_9nS24fRr_j_bfKw&s",
     "category": "Utility"
   },
   {
     "name": "Anydesk-7.0.0",
     "description": "Unofficial, Fast Remote Desktop Application.",
     "url": "https://github.com/ivan-hc/Anydesk-appimage/releases/download/continuous/Anydesk_7.0.0-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ivan-hc/Anydesk-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6jA2h_48GYkOhuzcbL6BGaI0cr7tLyP-L7DfCVC_4Yu0E5PcDPbqv6VZkJA&s",
     "category": "Utility"
   },
   {
     "name": "Qemu-git",
     "description": "QEMU (Quick Emulator) is a free and open-source emulator that uses dynamic binary translation to emulate the processor of a computer.",
     "url": "https://github.com/lucasmz1/Qemu-AppImage/releases/download/continuous-stable-jammy/QEMU-git-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/lucasmz1/Qemu-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLhM_zP2RS7Domdts9LXC5w6rB5ToKZYc4W6pNOw57LYAPkucOafoFLuYzIw&s",
     "category": "Utility"
   },
   {
     "name": "Pcsx2-1.6.0",
     "description": "PCSX2 Appimage that include all 32bits deps, for all linux 64bits (include no-multilib). Discontinued in favor of the official 64bit native version!!!",
     "url": "https://github.com/ferion11/PCSX2_Appimage/releases/download/continuous-1.6.x/pcsx2-1.6.0-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ferion11/PCSX2_Appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_phP8dZ9tJ-PeMjVC7zIIt9-_2QaxQETf2i3tJomV7SuyRnO_2XzVlWrvVC8&s",
     "category": "Utility"
   },
   {
     "name": "Tesseract-5.5.1",
     "description": "tesseract-ocr AppImage",
     "url": "https://github.com/AlexanderP/tesseract-appimage/releases/download/v5.5.1/tesseract-5.5.1-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/AlexanderP/tesseract-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bvmnan4E7sACRbuF-yp42IlH074pA0MYgNinGpQcTBzGnyBiK3ksYoBwrQ&s",
     "category": "Utility"
   },
   {
     "name": "Gimp-2",
     "description": "Using the brilliant Shradiko app to make Gimp appimages for use on Ubuntu systems",
     "url": "https://github.com/TasMania17/Gimp-Appimages-Made-From-Debs/releases/download/Gimp-v2.10.38/gimp-2-10-38-overlay-py2-mm-v2.AppImage",
-    "icon": "https://raw.githubusercontent.com/TasMania17/Gimp-Appimages-Made-From-Debs/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXs0-g2lKNzMYdkYHhpYLVDOko4JCuDnv80htRrOyVU37dwKC-SYzfm3-IF-g&s",
     "category": "Utility"
   },
   {
     "name": "Appimage-desktop",
     "description": "Optional set of tools to assist users at verifying, activating, deploying and removing applications packed as appimage.",
     "url": "https://github.com/Nitrux/appimage-desktop-integration/releases/download/continuous/AppImage_Desktop_Integration_Tool-1913764-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/Nitrux/appimage-desktop-integration/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmUTWV1yyj6QUL-aL2Dvm_rYQvmUCZysdDF2w0LF2TrHNuO9aKwlHbD-vJWJo&s",
     "category": "Utility"
   },
   {
     "name": "Element-v1.11.70.glibc2.35",
     "description": "Continuous Integration AppImages for Element Matrix Client (element.io)",
     "url": "https://github.com/srevinsaju/element-appimage/releases/download/stable/Element-v1.11.70.glibc2.35.AppImage",
-    "icon": "https://raw.githubusercontent.com/srevinsaju/element-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTELOW6zN91tDlbZ4PiJm7bGCV6LP9u2QVAFF9Ksh7r_I0OTg-iiMyaa7k6CV0&s",
     "category": "Utility"
   },
   {
     "name": "Android-platform",
     "description": "Unofficial AppImage of Android Platform Tools (adb, fastboot, etc). Can also install udev rules. [Maintainer=@Samueru-sama]",
     "url": "https://github.com/pkgforge-dev/android-tools-AppImage/releases/download/36.0.0/Android-platform-tools-36.0.0-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/pkgforge-dev/android-tools-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXljbsxGB5pDJ0eR_mtcm3P2qBj9CZHP3_wjBDabSvBhmUeOvjAcSZ_klXLA&s",
     "category": "Utility"
   },
   {
     "name": "Faster-project",
     "description": null,
     "url": "https://github.com/jlambert360/FPM-AppImage/releases/download/v3.1.2/Faster_Project_Plus-x86-64.AppImage",
-    "icon": "https://raw.githubusercontent.com/jlambert360/FPM-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd-NZ-FwTJQbJrP0bPvRgDB4IXkpI3m98CMdv0ZeBxd8K2TIFpDVTcEYC7sGs&s",
     "category": "Utility"
   },
   {
     "name": "Chromium-beta",
     "description": "Continuous Stable/Candidate/Beta/Edge releases built from the Snap packages.",
     "url": "https://github.com/ivan-hc/Chromium-Web-Browser-appimage/releases/download/continuous/Chromium-beta-138.0.7204.35-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ivan-hc/Chromium-Web-Browser-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaLJ-CKNCmoUHs3uIsAxLqj7oXlw_Qh7DJKCSgzWFDs2L_S3_TDUld1_MYdQ&s",
     "category": "Utility"
   },
   {
     "name": "Retroarch-linux",
     "description": "An attempt to use CI for nightly builds of RetroArch for Windows and Linux (via AppImage)",
     "url": "https://github.com/hizzlekizzle/RetroArch-AppImage/releases/download/Linux_LTS_Nightlies/RetroArch-Linux-x86_64-Nightly.AppImage",
-    "icon": "https://raw.githubusercontent.com/hizzlekizzle/RetroArch-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7ZOUlKAQQblXBAwM3_w8QSsScsPbpBwZ5FN5-D7tmuxhLQnctA7s0kFo010M&s",
     "category": "Utility"
   },
   {
     "name": "Proton-linux",
     "description": "Appimage for Wine Proton 32bits from PlayOnLinux - You can run on no-multilib system",
     "url": "https://github.com/ferion11/Proton_Appimage/releases/download/continuous-f11wine/proton-linux-x86-v5.11-f11-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ferion11/Proton_Appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLwIeINAnRjfC4zmRrBHk9TIwQzGZL-wBfk22go0LTC0v1YyRVRi9MZC46LA&s",
     "category": "Utility"
   },
   {
     "name": "Scrcpy-v1.24",
     "description": null,
     "url": "https://github.com/srevinsaju/scrcpy-appimage/releases/download/continuous/scrcpy-v1.24-7-gc00a9ead-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/srevinsaju/scrcpy-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9RFMNHXIgnphLWoDWrahTs8K36w3leMg4J04ygzVFJBIdY8Gg79dmnvhIsd0&s",
     "category": "Utility"
   },
   {
     "name": "Torzu-r27242.fd908334a",
     "description": "Unofficial AppImage of Torzu, with optimized builds for modern cpus. [Maintainer=@Samueru-sama] ",
     "url": "https://github.com/pkgforge-dev/Torzu-AppImage/releases/download/r27242.fd908334a/Torzu-r27242.fd908334a-anylinux-x86_64_v3.AppImage",
-    "icon": "https://raw.githubusercontent.com/pkgforge-dev/Torzu-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlKmbrPWJIA5kdok0xOb2s2pCdL7ISDBOW0dggNly7YIIzi5iEZ9ZNKhOpkA&s",
     "category": "Utility"
   },
   {
     "name": "Ppsspp-1.18.1",
     "description": "Unofficial AppImage of the PPSSPP emulator [Maintainer=@Samueru-sama]",
     "url": "https://github.com/pkgforge-dev/PPSSPP-AppImage/releases/download/1.18.1-5/ppsspp-1.18.1-5-anylinux-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/pkgforge-dev/PPSSPP-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQig7kqvnPa_eSo7L6WHC_jXlZDgSZbVwgzDYeD7pbQElqAaCsEBTGw7Op68gs&s",
     "category": "Utility"
   },
   {
     "name": "Kicad-5.1.4.glibc2.27",
     "description": "Downloadable prebuilt AppImages for KiCad",
     "url": "https://github.com/KarlZeilhofer/kicad-appimage/releases/download/v5.1.4/KiCad-5.1.4.glibc2.27-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/KarlZeilhofer/kicad-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeylaVa3Ha0gA3aGDFdDCmrMjBUhgqjnzzjtc0Y-7JRsz446eGlav5hKamRA&s",
     "category": "Utility"
   },
   {
     "name": "Hugin-panorama",
     "description": "Build scripts for the Hugin AppImage",
     "url": "https://github.com/aferrero2707/hugin-appimage/releases/download/continuous/Hugin_Panorama_Creator-2019.0.0-20190407-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/aferrero2707/hugin-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE011PssX-IZHEBWfzQ8pq3k9w73J6VBTBKXsy4cUvWUw-mPS8CvqdHqlWRM0&s",
     "category": "Utility"
   },
   {
     "name": "Microsoft-edge",
     "description": "Unofficial, a proprietary cross-platform web browser created by Microsoft and based on the Chromium open-source project, superseding Edge Legacy. Built from the official DEBs.",
     "url": "https://github.com/ivan-hc/MS-Edge-appimage/releases/download/continuous/Microsoft-Edge-beta-138.0.3351.42-1-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ivan-hc/MS-Edge-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKpY_0DySMO0rXvAadK85xU4FpPWZZvGRYkbNjwhzvqTAaBp9Q8yoJo7Lu1jQ&s",
     "category": "Utility"
   },
   {
     "name": "Aws",
     "description": ":package: AWS CLI v2 in a single file, powered by AppImage",
     "url": "https://github.com/simnalamburt/awscliv2.appimage/releases/download/v2.27.41/aws-aarch64.AppImage",
-    "icon": "https://raw.githubusercontent.com/simnalamburt/awscliv2.appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC3vG6-6FkrvgJLgUwRdl4F6eejQev-8tGW-Y9dREp0BNHRMNHn3PB_gfjHg&s",
     "category": "Utility"
   },
   {
     "name": "Wps-office",
     "description": "Unofficial, WPS Office suite built from the official DEB package.",
     "url": "https://github.com/ivan-hc/WPS-Office-appimage/releases/download/continuous/WPS-Office_11.1.0.11723-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ivan-hc/WPS-Office-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7ystA2Nt7hsz9bbMVULeCF4rYHdL-b9j-5XA99z7GP7f9xs4yIyiubpYN4w&s",
     "category": "Utility"
   },
   {
     "name": "Prusaslicer-2.9.1",
     "description": null,
     "url": "https://github.com/probonopd/PrusaSlicer.AppImage/releases/download/2.9.1-rc1/PrusaSlicer-2.9.1-rc1-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/probonopd/PrusaSlicer.AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTc4zMFsyzhsIRSsbSCnlY7P6XtKyeQJ8jmnEFAdMf0xiRbNtaqMELW_qPx40&s",
     "category": "Utility"
   },
   {
     "name": "Telegram-desktop",
     "description": "An Unofficial continuously updated AppImage for Telegram",
     "url": "https://github.com/srevinsaju/Telegram-AppImage/releases/download/v3.2.5/Telegram_Desktop-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/srevinsaju/Telegram-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtpXizeTgrg7ZDRMA6PTeHGYDvZgJkx_v25uYbYJ2PXpODgfZl_fD6bojSDQ&s",
     "category": "Utility"
   },
   {
     "name": "Appimagetool-x86",
     "description": "AppImage build for gnucash",
     "url": "https://github.com/ecmu/gnucash.AppImage/releases/download/5.9/appimagetool-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ecmu/gnucash.AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMh8KTC4QGBKhW7Srth5uBou3IpkvDPIMJqHe_dkycAUSEbUd0KDlK6FWkxA&s",
     "category": "Utility"
   },
   {
     "name": "Handbrake-1.9.2",
     "description": "Unofficial, a free and open-source transcoder for digital video files.",
     "url": "https://github.com/ivan-hc/Handbrake-appimage/releases/download/continuous/HandBrake_1.9.2-3-archimage4.3-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ivan-hc/Handbrake-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBkYUYN_zIcJHZUgfAKPr4GsiuejCh35YupC_aKJp0iXvXvNMtjfdQgB-qQSc&s",
     "category": "Utility"
   },
   {
     "name": "Alr2appimage-1.0.0",
     "description": "Tool for building an AppImage from an Alire crate",
     "url": "https://github.com/mgrojo/alr2appimage/releases/download/continuous/alr2appimage-1.0.0-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/mgrojo/alr2appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2R0VnUej_JtFu_aBmQFo_ej_4f17BZ3oKcG7i9hnYPMUnWqwXCnmnvbkOlpA&s",
     "category": "Utility"
   },
   {
     "name": "Droidcam-2.1.3",
     "description": "A DroidCam AppImage for the Steam Deck/SteamOS 3.0",
     "url": "https://github.com/popsUlfr/droidcam-steam-deck-appimage/releases/download/v2.1.3-6.8.0-valve1-preview3-1-neptune-68-ga4f920802c7a/DroidCam-2.1.3-6.8.0-valve1-preview3-1-neptune-68-ga4f920802c7a-x86_64_SteamDeck.AppImage",
-    "icon": "https://raw.githubusercontent.com/popsUlfr/droidcam-steam-deck-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjj43Z51BigpvBia3zGR9I1bDRv-x4qffHTjW1iw0ghL64Uc4E_L82OfGGNw&s",
     "category": "Utility"
   },
   {
     "name": "Wps-office-2",
     "description": null,
     "url": "https://github.com/openSUSE-zh/wps-office-appimage/releases/download/11.1.0.11720/WPS_Office-11.1.0.11720.x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/openSUSE-zh/wps-office-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7ystA2Nt7hsz9bbMVULeCF4rYHdL-b9j-5XA99z7GP7f9xs4yIyiubpYN4w&s",
     "category": "Utility"
   },
   {
     "name": "Signal-v7.58.0",
     "description": "Latest Stable AppImage build of Signal Desktop: https://github.com/signalapp/Signal-Desktop",
     "url": "https://github.com/karo-solutions/Signal-Desktop-AppImage/releases/download/v7.58.0/Signal-v7.58.0-aarch64.AppImage",
-    "icon": "https://raw.githubusercontent.com/karo-solutions/Signal-Desktop-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXlBuHosAVa7JdDYW-62I0V9MBFYWfJQB3T9f45MHstnTSXdGKsccu1BgUtyU&s",
     "category": "Utility"
   },
   {
     "name": "Emacs-30.1",
     "description": "Unofficial AppImage for Emacs.",
     "url": "https://github.com/ivan-hc/Emacs-appimage/releases/download/continuous/Emacs_30.1-5-archimage4.3-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ivan-hc/Emacs-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhwlm5SUe0Nk6v27fKfk8Zxc3GWl0k8RnAa7lTs_voOWlJ0mmt45vbcIcnAWQ&s",
     "category": "Utility"
   },
   {
     "name": "Mpv-media",
     "description": "Unofficial, MPV Media Player, a free (as in freedom) media player for the command line.",
     "url": "https://github.com/ivan-hc/MPV-appimage/releases/download/continuous/mpv-Media-Player_0.40.0-3-archimage4.3-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ivan-hc/MPV-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRBjOCCIWtm8yNd_fWWubA6AAVyoq7kxesQNdaqueYXxNrNRUZ22h0_5HNpEw&s",
     "category": "Utility"
   },
   {
     "name": "Cromite-v137.0.7151.72",
     "description": "Unofficial AppImage of the Cromite web browser. [Maintainer=@Samueru-sama]",
     "url": "https://github.com/pkgforge-dev/Cromite-AppImage/releases/download/v137.0.7151.72/Cromite-v137.0.7151.72-anylinux-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/pkgforge-dev/Cromite-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLW6OSs6sFnapclPThn0KGW-cLipefHl_2mv6luWAD7gOY7dE98t7BtNQ7Q&s",
     "category": "Utility"
   },
   {
     "name": "Atom-v1.63.1",
     "description": "Atom Appimage for linux 64bits",
     "url": "https://github.com/ferion11/atom_Appimage/releases/download/v1.63.1/atom-v1.63.1-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ferion11/atom_Appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu3GG_QJmrZfWlZAW7VzdhXRIuoUVSfgrcQ74wzBm1CXcrvMg6g0jkFvSQV7I&s",
     "category": "Utility"
   },
   {
     "name": "Nmap-7.95",
     "description": "A self-contained nmap package, using the AppImage format, for use in compromised systems",
     "url": "https://github.com/iTrooz/nmap-appimage/releases/download/7.95/nmap-7.95-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/iTrooz/nmap-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfGJJzcloAF4rgwyawQ3UIZ9z_8qP7ODqqin4e4s5eMaeMnp2ArOl84DTDFRM&s",
     "category": "Utility"
   },
   {
     "name": "Opera-72.0.3815.207",
     "description": "The AppImage build of Opera web browser",
     "url": "https://github.com/tyu1996/opera-AppImage/releases/download/continuous/Opera_72.0.3815.207-72.0.3815.207.glibc2.16-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/tyu1996/opera-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhCj8eL5C4UTFOwD22OXevmSZ9bc_eYdfeiu-KVlrTAAEHSF2TnfrbHtTsA6w&s",
     "category": "Utility"
   },
   {
     "name": "Dbeaver-ce",
     "description": "Unofficial / Community provided Dbeaver Community Edition AppImage ",
     "url": "https://github.com/valicm/dbeaver-ce-appimage/releases/download/latest/dbeaver-ce-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/valicm/dbeaver-ce-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeMmTdxCJgBN3OVcoamDhyMjdskO9PH1q6B5sOIFh5d8CtoCXe7RggQzJLuiw&s",
     "category": "Utility"
   },
   {
     "name": "Vlc-media-2",
     "description": "A repository for building a VLC 3.0.3 AppImage on Travis CI",
     "url": "https://github.com/icflorescu/vlc-3-appimage/releases/download/3.0.3/VLC_media_player-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/icflorescu/vlc-3-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3pYNbcRG5G77oXrLQub59Ik3IL2ROj2HV_h8kWWBfz5s7kEOG76gNyzfmVg&s",
     "category": "Utility"
   },
   {
     "name": "Hello.flutter-latest",
     "description": "Hello World flutter project pack as AppImage",
     "url": "https://github.com/AppImageCrafters/appimage-builder-flutter-example/releases/download/continuous/Hello.Flutter-latest-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/AppImageCrafters/appimage-builder-flutter-example/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6pO6FK5yM3ShI69i2uSjAFiWAKfVKFYcugHk2uB2pweJ8FvKNvweDRyvMGg&s",
     "category": "Utility"
   },
   {
     "name": "Geany-2.0.0",
     "description": "AppImage build for geany/geany",
     "url": "https://github.com/ecmu/geany.AppImage/releases/download/2.0.0/Geany-2.0.0-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ecmu/geany.AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDcDYStRnzBRfO1GftAiEiCEbvuWMRhU71WQ1cAmQLKblzvEbIg5Tnfo1ObDc&s",
     "category": "Utility"
   },
   {
     "name": "Sonic-pi",
     "description": "Dockerized Sonic Pi build that creates a portable AppImage",
     "url": "https://github.com/spencerschumann/sonic-pi-appimage/releases/download/v3.2.2-001/sonic-pi.AppImage",
-    "icon": "https://raw.githubusercontent.com/spencerschumann/sonic-pi-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhhCiu0O58bvwCrXaCjoQlj51j1X1y9bcL-q1_01wtS3orP5M3VTHeF5HDvg&s",
     "category": "Utility"
   },
   {
     "name": "Calibre-8.4.0",
     "description": null,
     "url": "https://github.com/KushagraKarira/calibre-appimage/releases/download/v8.4.0/Calibre-8.4.0-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/KushagraKarira/calibre-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGTh3OmVRixaJHmqEaUI3tYbBD14Ocd3LY9YJa3R_OTIdzO1pFvaCjRn4AlS4&s",
     "category": "Utility"
   },
   {
     "name": "Vivaldi-snapshot",
     "description": "Unofficial, Vivaldi Web Browser Stable/Snapshot  built from the official deb packages.",
     "url": "https://github.com/ivan-hc/Vivaldi-appimage/releases/download/continuous/Vivaldi-snapshot-7.5.3731.3-1-aarch64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ivan-hc/Vivaldi-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6x8rFDnBQhOGD7u0qIQYjZ3RZncHJ61ATregBunYg5Cgv4BNjvt2Y0LK8QIM&s",
     "category": "Utility"
   },
   {
     "name": "Webcamoid-9.2.3",
     "description": "Various AppImage packages for AM and AppMan",
     "url": "https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/download/webcamoid/Webcamoid_9.2.3-1-archimage4.3-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ivan-hc/Database-of-pkg2appimaged-packages/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcnQerQQXUxwcNFn2s-HNwfsQyzYnI-MO2cDV45KMaBcIpPpvs3USgk8o_nhE&s",
     "category": "Utility"
   },
   {
     "name": "Code.blocks-ide",
     "description": "[NO LONGER MAINTAINED] My repository of recipes for building AppImages. Fork of https://github.com/probonopd/AppImages.",
     "url": "https://github.com/fusion809/AppImages/releases/download/codeblocks-16.01/Code.Blocks_IDE-16.01.glibc2.14-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/fusion809/AppImages/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkyPraRjTdoEB1ydIIaqEj2_I77NIhNpUlxhK6RGPGUnJC13yz-opBcL8otUc&s",
     "category": "Utility"
   },
   {
     "name": "Codeblocks-v20.03",
     "description": "CodeBlocks Appimage for linux 64bits",
     "url": "https://github.com/ferion11/codeblocks_Appimage/releases/download/continuous-master/codeblocks-v20.03-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ferion11/codeblocks_Appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfqy1A26Ef8-2tPcqeu6Z-fBVpCWn0tO57JzxBtefFC4Q7XdtqiO8-wbP-HA&s",
     "category": "Utility"
   },
   {
     "name": "Android-studio",
     "description": "Android Studio as AppImages.",
     "url": "https://github.com/zyrouge/android-studio-appimages/releases/download/v2025.1.1.12/android-studio-beta-2025.1.1.12-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/zyrouge/android-studio-appimages/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXljbsxGB5pDJ0eR_mtcm3P2qBj9CZHP3_wjBDabSvBhmUeOvjAcSZ_klXLA&s",
     "category": "Utility"
   },
   {
     "name": "Handbrake-1.1.2.glibc2.17",
     "description": "Unofficial Handbrake AppImage, Handbrake version import from ppa repository ",
     "url": "https://github.com/cmatomic/Handbrake-AppImage/releases/download/continuous/HandBrake-1.1.2.glibc2.17-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/cmatomic/Handbrake-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBkYUYN_zIcJHZUgfAKPr4GsiuejCh35YupC_aKJp0iXvXvNMtjfdQgB-qQSc&s",
     "category": "Utility"
   },
   {
     "name": "Wireshark-4.4.7.glibc2.29",
     "description": "Wireshark in AppImage",
     "url": "https://github.com/ryuuzaki42/Wireshark_AppImage/releases/download/4.4.7/Wireshark-4.4.7.glibc2.29-x86_64-1_JB.AppImage",
-    "icon": "https://raw.githubusercontent.com/ryuuzaki42/Wireshark_AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRocsQjKJqqU5I_B_h_Wy1cULqiT-i-SYU4019Fc5vSHCESY6sCqby0K2uyI1I&s",
     "category": "Utility"
   },
   {
     "name": "Acestream-3.2.3",
     "description": "Створення бінарника AppImage з AceStream Media",
     "url": "https://github.com/bro2020/acestream-appimage/releases/download/v2.5/AceStream-3.2.3-v2.5.AppImage",
-    "icon": "https://raw.githubusercontent.com/bro2020/acestream-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9TXA1EzF_HcfXzS7ERM1fofb2awdtnds0K417vVHfOE1M_PpopcfcjAArTg&s",
     "category": "Utility"
   },
   {
     "name": "Peazip-v10.4.0",
     "description": "PeaZip Appimage for linux 64bits",
     "url": "https://github.com/ferion11/PeaZip_Appimage/releases/download/continuous-master/PeaZip-v10.4.0-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ferion11/PeaZip_Appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfN5UTtc8WtvPhKnywRj0rHsWcdL_qduHyWyoKpvkMqr0kRvFrd5YV2otcow&s",
     "category": "Utility"
   },
   {
     "name": "Mpv-v0.40.0",
     "description": "Unofficial AppImage of mpv [Maintainer=@Samueru-sama]",
     "url": "https://github.com/pkgforge-dev/mpv-AppImage/releases/download/v0.40.0-138-g18defc853/mpv-v0.40.0-138-g18defc853-anylinux-aarch64.AppImage",
-    "icon": "https://raw.githubusercontent.com/pkgforge-dev/mpv-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRBjOCCIWtm8yNd_fWWubA6AAVyoq7kxesQNdaqueYXxNrNRUZ22h0_5HNpEw&s",
     "category": "Utility"
   },
   {
     "name": "Lutris-0.5.19",
     "description": "Lutris is a video game preservation platform aiming to keep your video game collection up and running for the years to come. Over the years, video games have gone through many different hardware and software platforms. By offering the best software available to run your games, Lutris makes it easy to run all your games, old and new. ",
     "url": "https://github.com/lucasmz1/Lutris_AppImage/releases/download/continuous/Lutris_0.5.19-5-archimage4.3-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/lucasmz1/Lutris_AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWF-4HxwpyZkMLOE6QtzaLN8fRZSPkMqOtp0bQPjSaGnFnnm34HZKD2mV1GIw&s",
     "category": "Utility"
   },
   {
     "name": "Floorp-v11.27.0",
     "description": "Floorp Portable Web Browser as AppImage",
     "url": "https://github.com/gunir/Floorp-AppImage/releases/download/release/floorp-v11.27.0-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/gunir/Floorp-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0vvtv8NkoggLB5xAMImwC_XfLoTRlmFeK5ZImZga1ukst-nxbX777z8r6__M&s",
     "category": "Utility"
   },
   {
     "name": "Appimagedl-0.0.5",
     "description": "Easily download AppImages and keep them up to date.  Integrates with AppImageHub to get information about available AppImages.",
     "url": "https://github.com/simoniz0r/appimagedl/releases/download/v0.0.5/appimagedl-0.0.5-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/simoniz0r/appimagedl/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ_VKa_Rlg8ka_tXcPVvyVnNZan0WUgke3SixN0hWlI6LK-05vgCZRUQHCHOA&s",
     "category": "Utility"
   },
   {
     "name": "Lutris+wine-0.5.19",
     "description": "Unofficial AppImage of Lutris, with Wine included. [Maintainer=@contrarybaton60]",
     "url": "https://github.com/pkgforge-dev/Lutris-AppImage/releases/download/0.5.19-5/Lutris%2Bwine-0.5.19-5-anylinux-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/pkgforge-dev/Lutris-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS__pZfOfU6toU3moGoqPJodbSL8DMi5-tJbQGe43eteJWrMNxyYyHJ9ERhpVU&s",
     "category": "Utility"
   },
   {
     "name": "Ocenaudio-3.15",
     "description": "Unofficial, one of the best audio editors on GNU/Linux.",
     "url": "https://github.com/ivan-hc/ocenaudio-appimage/releases/download/continuous/ocenaudio_3.15-1-archimage4.3-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ivan-hc/ocenaudio-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8vjhTepir9fHxiGnbYy_eKiKsMw_33p-x-oajhl4nOC-Gt3AdpYXHSZ1lvA&s",
     "category": "Utility"
   },
   {
     "name": "Skype-8.150.0.125",
     "description": "Unofficial AppImage of Skype built from the official Snap package.",
     "url": "https://github.com/ivan-hc/Skype-appimage/releases/download/continuous/Skype--8.150.0.125-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ivan-hc/Skype-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYblSRksbDNiDg8KenHLZqkngDeDk8E8kjMWo34H5nxNmsLCz4iCYDa03FiA&s",
     "category": "Utility"
   },
   {
     "name": "360zip-x86",
     "description": "AppImage for Linux",
     "url": "https://github.com/gasuncom/AppImage/releases/download/AppImage/360zip-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/gasuncom/AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1kah25ngW-MaVfDxkQQ58IC09bpbMuxAMnOq1F2CWlS_Mm17zj9CnSzo0mQ&s",
     "category": "Utility"
   },
   {
     "name": "Opera-web",
     "description": "Unofficial AppImages for Opera Web Browser Stable, Beta and Developer.",
     "url": "https://github.com/ivan-hc/Opera-appimage/releases/download/continuous/Opera-Web-Browser-beta-120.0.5543.29-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ivan-hc/Opera-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhCj8eL5C4UTFOwD22OXevmSZ9bc_eYdfeiu-KVlrTAAEHSF2TnfrbHtTsA6w&s",
     "category": "Utility"
   },
   {
     "name": "Kodi-18.4.git20190831.2224.glibc2.17",
     "description": "unofficial Kodi  AppImage , Kodi stable version import from ppa repository",
     "url": "https://github.com/cmatomic/Appimage-003/releases/download/continuous/Kodi-18.4.git20190831.2224.glibc2.17-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/cmatomic/Appimage-003/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuwzK2hp-LcE8XV8LeuWIrESL8v3gmEYMCt3xCo9LMLX3Ju9ng6mC0ev_BEw0&s",
     "category": "Utility"
   },
   {
     "name": "Boxes-48.0",
     "description": "Unofficial GNOME Boxes, an application that gives you access to virtual machines.",
     "url": "https://github.com/ivan-hc/Boxes-appimage/releases/download/continuous/Boxes_48.0-4-archimage4.3-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ivan-hc/Boxes-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Zh8gfQrvTfc-ss8kJnQt7BLLue-R9cfEZejKudfX0z1XK_VfS9t0Z6_DfQ&s",
     "category": "Utility"
   },
   {
     "name": "Masterpdfeditor-4.3.89",
     "description": "MasterPDFEditor 4 in AppImage ",
     "url": "https://github.com/ryuuzaki42/MasterPDFEditor_AppImage_4/releases/download/4.3.89/MasterPDFEditor-4.3.89-x86_64-1_JB.AppImage",
-    "icon": "https://raw.githubusercontent.com/ryuuzaki42/MasterPDFEditor_AppImage_4/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTccG30Ac7NlAMkignbMU2UT7qApOf1PAVEb7zO0IIn8IrOzMSsAuGCqI-ICM&s",
     "category": "Utility"
   },
   {
     "name": "Vlc-media-3",
     "description": "A Repository for building VLC AppImage",
     "url": "https://github.com/anupam-git/vlc-appimage/releases/download/continuous/VLC_media_player-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/anupam-git/vlc-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3pYNbcRG5G77oXrLQub59Ik3IL2ROj2HV_h8kWWBfz5s7kEOG76gNyzfmVg&s",
     "category": "Utility"
   },
   {
     "name": "Yandex-browser",
     "description": "Unofficial, Yandex Web Browser AppImage built from the official DEB packages.",
     "url": "https://github.com/ivan-hc/Yandex-Browser-appimage/releases/download/continuous/Yandex-Browser-beta-25.4.1.1133-1-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ivan-hc/Yandex-Browser-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTqA1ovRYlpUnjaN5ujH3YOe7IrSHI-fg_FnHXQg1P1KI2DcFY0_v8SoQDzYA&s",
     "category": "Utility"
   },
   {
     "name": "Parsec-linux",
     "description": "AppImage for Parsec, built using deb2appimage https://github.com/simoniz0r/deb2appimage",
     "url": "https://github.com/E5ten/parsec-linux-AppImage/releases/download/146-18/parsec-linux-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/E5ten/parsec-linux-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThHfo_3pdM8gUPS93owpb6g2BMyX5nLhmHr7ivaFxYgacOiS2gjEroj0iPCQ&s",
     "category": "Utility"
   },
   {
     "name": "Ares-073d7a537",
     "description": "Unofficial AppImage of the ares emulator [Maintainer=@bmsuseluda|@Samueru-sama] ",
     "url": "https://github.com/pkgforge-dev/ares-emu-appimage/releases/download/nightly/ares-073d7a537-anylinux-aarch64.AppImage",
-    "icon": "https://raw.githubusercontent.com/pkgforge-dev/ares-emu-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKbFfuO6b8ZHCqtwj5erkHcN7YGCYsa4SyFtiN5I5yruDzjbwjg3F-IUmM1g&s",
     "category": "Utility"
   },
   {
     "name": "Cubicsdr-0.2.8",
     "description": "AppImageKit build scripts",
     "url": "https://github.com/cjcliffe/CubicSDR-AppImageKit/releases/download/0.2.8-test4/CubicSDR-0.2.8-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/cjcliffe/CubicSDR-AppImageKit/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIstDmBfIn_qBYu9sRWFMyxCpf8hyQq-YadMMt00ClVcH5pGhZWG0ArSEJ2Cs&s",
     "category": "Utility"
   },
   {
     "name": "Vscode",
     "description": null,
     "url": "https://github.com/area-of-dev/VSCode.AppImage/releases/download/latest/VSCode.AppImage",
-    "icon": "https://raw.githubusercontent.com/area-of-dev/VSCode.AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD2ST3q9IAMQmL5wSTTzoxiySzCfDEKjTQfBlctTZajZQ1IV5glU-vU9NiH8Q&s",
     "category": "Utility"
   },
   {
     "name": "Thorium",
     "description": null,
     "url": "https://github.com/area-of-dev/Thorium.AppImage/releases/download/latest/Thorium.AppImage",
-    "icon": "https://raw.githubusercontent.com/area-of-dev/Thorium.AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB6-EQiRgvY6iR1ijISo0m5MXCVuX7Dq7Jp2gfWFnU1na5BbmpR0sYmFlimg&s",
     "category": "Utility"
   },
   {
     "name": "Wps-office-3",
     "description": null,
     "url": "https://github.com/area-of-dev/WPS-Office.AppImage/releases/download/latest/WPS-Office.AppImage",
-    "icon": "https://raw.githubusercontent.com/area-of-dev/WPS-Office.AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7ystA2Nt7hsz9bbMVULeCF4rYHdL-b9j-5XA99z7GP7f9xs4yIyiubpYN4w&s",
     "category": "Utility"
   },
   {
     "name": "Okular.full-libs",
     "description": "okular appimage finally the best pdf reader in AppImage . Lovingly crafted AppImage tools and resources . Okular is a multiplatform document viewer developed by the KDE community and based on Qt and KDE Frameworks libraries. It is distributed as part of the KDE Applications bundle. Its origins are from KPDF and it replaces KPDF, KGhostView, KFax, KFaxview and KDVI in KDE 4.",
     "url": "https://github.com/felipefacundes/okular-appimage/releases/download/v22.08.1-Full_All_LIBS/Okular.full-libs-22.08.1-2-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/felipefacundes/okular-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU9uyvUWtvK9149v7c4sC-amY7cd81X84WC22uNZnEUg4b3vjwBcmLWmKoQo4&s",
     "category": "Utility"
   },
   {
     "name": "Sas-1.0",
     "description": "Tool to sandbox AppImages with bubblewrap easily in POSIX shell",
     "url": "https://github.com/Samueru-sama/simple-appimage-sandbox/releases/download/1.0/sas-1.0-anylinux-aarch64.AppImage",
-    "icon": "https://raw.githubusercontent.com/Samueru-sama/simple-appimage-sandbox/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAE_aIoxCu9Z5P6-ajGl-_b1zex8tbH0AZ2fkUOllE3LCXvIcVDvt2w37zyw&s",
     "category": "Utility"
   },
   {
     "name": "Studio-v1.5.4",
     "description": "Linux Appimage for Studio by WordPress.com, a free desktop app that helps developers streamline their local WordPress development workflow.",
     "url": "https://github.com/yasershahi/studio-appimage/releases/download/v1.5.4/Studio-v1.5.4-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/yasershahi/studio-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpAacQot_p10myX77SEIjg9_nwkvHtLnfyw1bFOXuqUgweLqDdtGV4RDFA&s",
     "category": "Utility"
   },
   {
     "name": "Zotero-7.0.16",
     "description": "Zotero in AppImage",
     "url": "https://github.com/ryuuzaki42/Zotero_AppImage/releases/download/7.0.16/Zotero-7.0.16-1_JB-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ryuuzaki42/Zotero_AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKg0efhqaf2oA_hN1LEZgVR-ThuaMqevBGlMLhsT6SQDahyLqRBnpmYavifY8&s",
     "category": "Utility"
   },
   {
     "name": "Fish-3.7.0",
     "description": "Creates an AppImage for `fish` shell.",
     "url": "https://github.com/Maverobot/fish.AppImage/releases/download/v3.7.0/fish-3.7.0-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/Maverobot/fish.AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX3BKgTLIQ7WW8Y_a-U9mKyYEfP358eSc03WfEc0xo6VvrWlbFCQCMlg31_dY&s",
     "category": "Utility"
   },
   {
     "name": "Aegisub-9232",
     "description": null,
     "url": "https://github.com/darealshinji/aegisub-appimage/releases/download/9232-dev-33ff9b408/aegisub-9232-dev-33ff9b408.AppImage",
-    "icon": "https://raw.githubusercontent.com/darealshinji/aegisub-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt7umK340Ib0zf4aDaWwqYx95hyKymelxjvHQ_iVLqXNrW_wpUkAhYv_FWxC4&s",
     "category": "Utility"
   },
   {
     "name": "Srb2kart-galaxy",
     "description": "AppImage Packages for SRB2Kart",
     "url": "https://github.com/Lonsfor/srb2k-appimage/releases/download/1.6/srb2kart-galaxy-noassets-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/Lonsfor/srb2k-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeLIPm9yiySM3kmsuVfpt3U5KN5Rt4OXXGbwurl2BS9E3VDJ_J6BqzgGzJHoI&s",
     "category": "Utility"
   },
   {
     "name": "Org.perl6.rakudo-x86",
     "description": "AppImages for Rakudo Star and Rakudo Moar Blead and Testing of Module installation and automation using the same script",
     "url": "https://github.com/samcv/rakudo-appimage-module-test-automation/releases/download/2017.01-AI-RC2/org.perl6.rakudo-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/samcv/rakudo-appimage-module-test-automation/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwDomgQN3HrzPiN5FmFqYVY3Zo0OCiQ9B075AinuKU79Pt2NiIALwgzmN9hw&s",
     "category": "Utility"
   },
   {
     "name": "Kde-games",
     "description": "Arch Linux suite of KDE games: 41 apps in one JuNest-based AppImage (ArchImage).",
     "url": "https://github.com/ivan-hc/KDE-games-suite-appimage/releases/download/continuous/KDE-games-suite_25.04-1-archimage4.3-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ivan-hc/KDE-games-suite-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT_cTB3cnvuQSkYp8Mgb7SA8J-ReYza0CfCOlUZ8Zn5w-7cfM9weXv-nHc0p0&s",
     "category": "Utility"
   },
   {
     "name": "Rofi-b29624e",
     "description": "AppImage of rofi. [Maintainer=@Samueru-sama] ",
     "url": "https://github.com/pkgforge-dev/rofi-AppImage/releases/download/b29624e/rofi-b29624e-anylinux-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/pkgforge-dev/rofi-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJT6OsLwHnDRck5m4dj0ubsQkFLsICtV353ZgB2CKXHEvldrQhltuFow9b1VQ&s",
     "category": "Utility"
   },
   {
     "name": "Kde-utils",
     "description": "Arch Linux suite of KDE utilities: 27 apps in one JuNest-based AppImage (ArchImage).",
     "url": "https://github.com/ivan-hc/KDE-utils-appimage/releases/download/continuous/KDE-utils_25.04-1-archimage4.3-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ivan-hc/KDE-utils-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT_cTB3cnvuQSkYp8Mgb7SA8J-ReYza0CfCOlUZ8Zn5w-7cfM9weXv-nHc0p0&s",
     "category": "Utility"
   },
   {
     "name": "Postman-x86",
     "description": "Unofficial / Community provided Postman AppImage",
     "url": "https://github.com/valicm/Postman-AppImage/releases/download/latest/Postman-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/valicm/Postman-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYu0GaC0VpEAFalXTAaBRCuGbWZ4TqpbwveSoCwR6v8OJx3y2GGz6Tlc_0oWw&s",
     "category": "Utility"
   },
   {
     "name": "Box86-0.3.5",
     "description": null,
     "url": "https://github.com/mmtrt/box86-64_AppImage/releases/download/continuous-staging-box86/box86-0.3.5-8378f9b_wine-staging_7.2_i386-aarch64.AppImage",
-    "icon": "https://raw.githubusercontent.com/mmtrt/box86-64_AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQppZnuto1aw7DcBbXj0kXkZkz5ska7y4gEr3SX2OsHsja7dP1Z9tYZaSDU2xo&s",
     "category": "Utility"
   },
   {
     "name": "Vidcutter-6.0.0",
     "description": "VidCutter AppImage builds from  Travis CI",
     "url": "https://github.com/ozmartian/vidcutter-appimage/releases/download/6.0.0/VidCutter-6.0.0-x64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ozmartian/vidcutter-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8srzcGZW-xQ2L_LGRxAjixiDbEAcdgJ6aCM2dvjAulrQu5_-DzN_lHWAIrg&s",
     "category": "Utility"
   },
   {
     "name": "Chirp-next",
     "description": "Portable AppImage Releases of CHIRP",
     "url": "https://github.com/goldstar611/chirp-appimage/releases/download/20250110/Chirp-next-20250110-aarch64.AppImage",
-    "icon": "https://raw.githubusercontent.com/goldstar611/chirp-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREKtyp3XhQdR0n2SKMzHo8Cox0K4EeK09imp9VrPU0h08Qe0qsqgwQiRLonsc&s",
     "category": "Utility"
   },
   {
     "name": "Luanti-5.12.0",
     "description": "Automatically generated AppImages for Luanti (formerly minetest) on x86-64 architecture.",
     "url": "https://github.com/zyachel/luanti-appimage/releases/download/5.12.0/Luanti-5.12.0.AppImage",
-    "icon": "https://raw.githubusercontent.com/zyachel/luanti-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiSYpy9hO4K_I96gKmeMZaoHBbRpwt92wGasKxLO7JZ6qtOe9m0oe3fYa-UOU&s",
     "category": "Utility"
   },
   {
     "name": "Luanti-5.12.0-2",
     "description": null,
     "url": "https://github.com/rollerozxa/luanti-appimage/releases/download/5.12.0-2/Luanti-5.12.0-2-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/rollerozxa/luanti-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiSYpy9hO4K_I96gKmeMZaoHBbRpwt92wGasKxLO7JZ6qtOe9m0oe3fYa-UOU&s",
     "category": "Utility"
   },
   {
     "name": "Ventoy-1.1.05",
     "description": "Ventoy in AppImage ",
     "url": "https://github.com/ryuuzaki42/Ventoy_AppImage/releases/download/1.1.05/Ventoy-1.1.05-1_JB-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ryuuzaki42/Ventoy_AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjeQIJpwgJK_SbiQxpoqSQ9MfU5NhSmZlN_a6-PwE0Xs6VgpiACuDNduizLg&s",
     "category": "Utility"
   },
   {
     "name": "Floorp-11.27.0.x86",
     "description": "Floorp portable web-browser in the AppImage format package",
     "url": "https://github.com/11orZee/Floorp-AppImage/releases/download/v11.27.0/Floorp-11.27.0.x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/11orZee/Floorp-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0vvtv8NkoggLB5xAMImwC_XfLoTRlmFeK5ZImZga1ukst-nxbX777z8r6__M&s",
     "category": "Utility"
   },
   {
     "name": "Appimage-creator",
     "description": null,
     "url": "https://github.com/Hiko-Seijuro-23/AppImage-creator/releases/download/AppImage/AppImage-creator-0.0.1.AppImage",
-    "icon": "https://raw.githubusercontent.com/Hiko-Seijuro-23/AppImage-creator/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmUTWV1yyj6QUL-aL2Dvm_rYQvmUCZysdDF2w0LF2TrHNuO9aKwlHbD-vJWJo&s",
     "category": "Utility"
   },
   {
     "name": "Azahar-enhanced",
     "description": "Unofficial AppImage of Azahar, with optimized builds for modern cpus. [Maintainer=@Samueru-sama] ",
     "url": "https://github.com/pkgforge-dev/Azahar-AppImage-Enhanced/releases/download/nightly/Azahar-Enhanced-2122.1-anylinux-aarch64.AppImage",
-    "icon": "https://raw.githubusercontent.com/pkgforge-dev/Azahar-AppImage-Enhanced/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4QrixPHObVgrLuC2-EDBbi-cZYjrA0nv_zjIHMmDbmV7AEswnOguXOGamxXI&s",
     "category": "Utility"
   },
   {
     "name": "Foobar2000-x64",
     "description": null,
     "url": "https://github.com/mmtrt/foobar2000_AppImage/releases/download/stable64-wp/foobar2000-x64_2.24.5_WP-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/mmtrt/foobar2000_AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSfZRYrZ0knYbp1GbV5G7iHfO4WvBi8YN7DJ8T5V9slW99TmWYh5IaZm6Z0Q&s",
     "category": "Utility"
   },
   {
     "name": "Desmume-0.9.13",
     "description": "Unofficial AppImage of the DeSmuME emulator. [Maintainer=@Samueru-sama]",
     "url": "https://github.com/pkgforge-dev/DeSmuME-AppImage/releases/download/0.9.13-1/desmume-0.9.13-1-anylinux-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/pkgforge-dev/DeSmuME-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr6OpdWxiiFj1zWG8wL5OhP4brPf_uKd87TTzIO90e9Z15xfRLaFcq7ljLeQ&s",
     "category": "Utility"
   },
   {
     "name": "Mypaint-v2.1.0",
     "description": "Travis-CI scripts for automated MyPaint AppImage packaging",
     "url": "https://github.com/mypaint/mypaint-appimage/releases/download/continuous-rotating/MyPaint-v2.1.0-alpha-386-g41be66c-2021-04-06_19.26.AppImage",
-    "icon": "https://raw.githubusercontent.com/mypaint/mypaint-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyUxwx_0lNer1vT93Z83QcMTQz_UukVj9mBM8JyYYU57ldr-DznALWgRp35w&s",
     "category": "Utility"
   },
   {
     "name": "Vivaldi",
     "description": null,
     "url": "https://github.com/area-of-dev/Vivaldi.AppImage/releases/download/latest/Vivaldi.AppImage",
-    "icon": "https://raw.githubusercontent.com/area-of-dev/Vivaldi.AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6x8rFDnBQhOGD7u0qIQYjZ3RZncHJ61ATregBunYg5Cgv4BNjvt2Y0LK8QIM&s",
     "category": "Utility"
   },
   {
     "name": "Gvim-v8.0.0525",
     "description": "Appimage builds for GVim",
     "url": "https://github.com/chrisbra/vim-appimage/releases/download/v8.0.0525/GVim-v8.0.0525-gita33ddbb-glibc2.15-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/chrisbra/vim-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjyPmI86KJSOygHUFMj8szelolQV9KGCTs5_GSVWNp03Rb-NMoUntcVaXZQSQ&s",
     "category": "Utility"
   },
   {
     "name": "Appimage-info",
     "description": "Extracts metadata from a given AppImage.",
     "url": "https://github.com/azubieta/AppImageInfo/releases/download/continuous/AppImage_Info_Tool-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/azubieta/AppImageInfo/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmUTWV1yyj6QUL-aL2Dvm_rYQvmUCZysdDF2w0LF2TrHNuO9aKwlHbD-vJWJo&s",
     "category": "Utility"
   },
   {
     "name": "Apprepo",
     "description": "command line client for apprepo",
     "url": "https://github.com/area-of-dev/apprepo.AppImage/releases/download/latest/apprepo.AppImage",
-    "icon": "https://raw.githubusercontent.com/area-of-dev/apprepo.AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1h1YGJr5aFF0RMSwEgWhGTYpXjOZbNI3dEDqBIjPkcatw0TglOo8s11OCug&s",
     "category": "Utility"
   },
   {
     "name": "Blender-x86",
     "description": null,
     "url": "https://github.com/hcsubser/Blender-AppImage/releases/download/continuous/Blender-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/hcsubser/Blender-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh8RXZAWjuYTaF3VH1Rtwvo9eIw7mmIC-3kNIUsu_bkZiWtaZKNcLB3USVLFk&s",
     "category": "Utility"
   },
   {
     "name": "Prusaslicer-2.9.2-2",
     "description": null,
     "url": "https://github.com/gneiss15/PrusaSlicer.AppImage/releases/download/2.9.2/PrusaSlicer-2.9.2-x86_64_GN.AppImage",
-    "icon": "https://raw.githubusercontent.com/gneiss15/PrusaSlicer.AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTc4zMFsyzhsIRSsbSCnlY7P6XtKyeQJ8jmnEFAdMf0xiRbNtaqMELW_qPx40&s",
     "category": "Utility"
   },
   {
     "name": "Appimage-firstrun",
     "description": "Convenience first run dialog to help integrating AppImages into the system",
     "url": "https://github.com/azubieta/appimage-firstrun/releases/download/continuous/appimage-firstrun-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/azubieta/appimage-firstrun/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmUTWV1yyj6QUL-aL2Dvm_rYQvmUCZysdDF2w0LF2TrHNuO9aKwlHbD-vJWJo&s",
     "category": "Utility"
   },
   {
     "name": "Hypnotix-4.9",
     "description": "An IPTV streaming application with support for live TV.",
     "url": "https://github.com/ivan-hc/Hypnotix-appimage/releases/download/continuous/Hypnotix_4.9-1-archimage4.3-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ivan-hc/Hypnotix-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcfS4npZfUnpo9ZQSnK00n-z0mn-THmAHbFBFKFIxkJVU29YsIMVuIGao2pqw&s",
     "category": "Utility"
   },
   {
     "name": "Notecad-cbc7f40",
     "description": "Using nativefier to make an AppImage from a web app using Electron",
     "url": "https://github.com/probonopd/nativefier-appimage/releases/download/continuous/NoteCAD-cbc7f40-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/probonopd/nativefier-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaC9iF-88-pQt_p-QKkvH2GiEM3BELxrz40PTUOG5xeHsIgGxtODqndTgCBA&s",
     "category": "Utility"
   },
   {
     "name": "Megasync-x86",
     "description": "AppImage builds of MEGA Sync Desktop App",
     "url": "https://github.com/jcassette/megasync-appimage/releases/download/v5.11.1-1/MEGAsync-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/jcassette/megasync-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKJDJM20C5vNfLKe-CeT67myL9yOLNXPm4TTDHiF1HzFcly83Xm-BXBjCpWPs&s",
     "category": "Utility"
   },
   {
     "name": "Rakudo-2021.05.glibc2.15",
     "description": null,
     "url": "https://github.com/timo/rakudo-appimage/releases/download/2021.05/Rakudo-2021.05.glibc2.15-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/timo/rakudo-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnDm3sOidFzUO1xOS4k5_up3l1-1GkC-bY-US2jh8w3382Dk6hbucGkr0cJQ&s",
     "category": "Utility"
   },
   {
     "name": "Codelite-9",
     "description": "https://github.com/eranif/codelite/issues/1455#issuecomment-584699413",
     "url": "https://github.com/probonopd/codelite-appimage/releases/download/continuous/CodeLite-9-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/probonopd/codelite-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROk5fYtEKwCu79jWnWdUIqPE2OjeknBwJekCjKn54zfPZyKJefwx96TM-DXVk&s",
     "category": "Utility"
   },
   {
     "name": "Appimage-services",
     "description": "Language agnostic implementation of the AppImage user experience (not mandatory to use AppImages)",
     "url": "https://github.com/azubieta/AppImageServices/releases/download/continuous/appimage-services-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/azubieta/AppImageServices/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmUTWV1yyj6QUL-aL2Dvm_rYQvmUCZysdDF2w0LF2TrHNuO9aKwlHbD-vJWJo&s",
     "category": "Utility"
   },
   {
     "name": "Abiword-x86",
     "description": "An uninversal Abiwork image that can run on headless systems - The best rtf converter",
     "url": "https://github.com/bratao/Abiword.appimage/releases/download/3.0.4/AbiWord-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/bratao/Abiword.appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcJvBlnyJQ2Xf1lhvlbgR9lY1610i84kD_IonezF6XnufAVpNwM-SrqDmygA&s",
     "category": "Utility"
   },
   {
     "name": "Pycharm-v2021.1.2",
     "description": "PyCharm Appimage for linux 64bits",
     "url": "https://github.com/ferion11/PyCharm_Appimage/releases/download/v2021.1.2/PyCharm-v2021.1.2-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ferion11/PyCharm_Appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjBf76qRd_lQQ8bO1JOGpl3EUiZx78_m0LdXwLZxf0DuU_uCLWGEBjBhYvN_E&s",
     "category": "Utility"
   },
   {
     "name": "Bforartists-v2.9.3",
     "description": "Recipe for packaging Bforartists using the AppImage format",
     "url": "https://github.com/AppImageCrafters/bforartists-appimage/releases/download/continuous/bforartists-v2.9.3-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/AppImageCrafters/bforartists-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRybE_D1KkcLElvxj14r-2Vg0tVXgGuHTNv7182XV7KnA9bKw4fEow3qIZcCA&s",
     "category": "Utility"
   },
   {
     "name": "Qtalarm-8028f64",
     "description": "An alarm program for computers. AppImage build repo for https://github.com/CountMurphy/QTalarm",
     "url": "https://github.com/antony-jr/QTalarm-AppImage/releases/download/continuous/QTalarm-8028f64-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/antony-jr/QTalarm-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJVWkJq5Z0IplwIcfHeJmeSS9yu2I15j61StVbGmB7OXHmd_lxOGBuzE100g&s",
     "category": "Utility"
   },
   {
     "name": "Puddletag-2.4.0",
     "description": "Unofficial AppImage of puddletag. [Maintainer=@Samueru-sama] ",
     "url": "https://github.com/pkgforge-dev/puddletag-AppImage/releases/download/20250608-102047/puddletag-2.4.0-anylinux-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/pkgforge-dev/puddletag-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-7t83PPaORqGtK96yL6kjOGXurkKtVoXDMDpxI34RHEyShXBaJUWyx1-OSwo&s",
     "category": "Utility"
   },
   {
     "name": "Authy-desktop",
     "description": "Authy in AppImage",
     "url": "https://github.com/ryuuzaki42/Authy_AppImage/releases/download/2.5.0/Authy_Desktop-2.5.0.glibc2.17-x86_64-1_JB.AppImage",
-    "icon": "https://raw.githubusercontent.com/ryuuzaki42/Authy_AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwCMT2yOxADsTB5RfmqvRFxj97UDjs1uRUPeOg_wiNPyX2pkG8jXx0dNgtdf0&s",
     "category": "Utility"
   },
   {
     "name": "Xenia-canary",
     "description": null,
     "url": "https://github.com/lucasmz1/Xenia-AppImage/releases/download/test/Xenia-canary-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/lucasmz1/Xenia-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Bl8uYUdZLG3wGXLH_u-yDmtLiSF6zCnzEubxcSHd40iefTd8gSAjlH2Qgw&s",
     "category": "Utility"
   },
   {
     "name": "Wine-staging-2",
     "description": "Just for test new dev version of Wine_Appimage. Use the https://github.com/ferion11/Wine_Appimage",
     "url": "https://github.com/ferion11/Wine_Appimage_dev/releases/download/continuous-master/wine-staging-linux-x86-v6.5-f11-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ferion11/Wine_Appimage_dev/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh4A5PeSmI7Mb4sh9-oPNAA2I9TzRERmTOQ9eQwv4GnDE57JnHu4G3DErDEQ&s",
     "category": "Utility"
   },
   {
     "name": "Libreoffice-still",
     "description": "Official AppImages (converted and re-hosted) and Unofficial Archimages of LibreOffice, without libfuse2 dependency and full support for AppImageUpdate tools.",
     "url": "https://github.com/ivan-hc/LibreOffice-appimage/releases/download/continuous-still/LibreOffice-still-24.8.7.2.basic-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ivan-hc/LibreOffice-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTKcaf4Wmertcnyiye_lZrLJLhZukZQ8oDlMo_Cw_iay0YcB0OsWmz0fMLiQ&s",
     "category": "Utility"
   },
   {
     "name": "Strawberry-1.2.11",
     "description": "Unofficial AppImage of the strawberry music player [Maintainer=@Samueru-sama] ",
     "url": "https://github.com/pkgforge-dev/strawberry-AppImage/releases/download/1.2.11-2.1/strawberry-1.2.11-2.1-anylinux-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/pkgforge-dev/strawberry-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDC4HtRYv5CC69rDz2j6uFohHx_NDu-ceZutAbopjfJxVyw5jyTg49bSMrhg&s",
     "category": "Utility"
   },
   {
     "name": "Obs-studio-2",
     "description": "Unofficial AppImage of OBS-Studio [Maintainer=@Samueru-sama] ",
     "url": "https://github.com/pkgforge-dev/OBS-Studio-AppImage/releases/download/31.0.3-2/OBS-Studio-31.0.3-2-anylinux-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/pkgforge-dev/OBS-Studio-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpFqKILkq5aaBe0MN6Ew5YAoUWJhzZ-_akn0INlObJB84Z5H1DygvX5xYfxnM&s",
     "category": "Utility"
   },
   {
     "name": "Subl",
     "description": "Portable SublimeText using AppImageKit builder.",
     "url": "https://github.com/gunir/SublimeText-AppImage/releases/download/main/subl.AppImage",
-    "icon": "https://raw.githubusercontent.com/gunir/SublimeText-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGOA55NsYvQa0QHy18vxb5hAYf4-iQSPdcqwQ75w6MD1BmpJ8mX9C_Do7QcLg&s",
     "category": "Utility"
   },
   {
     "name": "Openpht-1.8.0.148.jessie",
     "description": "Tools to convert an OpenPHT Debian package into an AppImage package.",
     "url": "https://github.com/DEAKSoftware/OpenPHT-AppImage/releases/download/1.8.0.148/OpenPHT-1.8.0.148.Jessie-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/DEAKSoftware/OpenPHT-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjtQgICgEGU_vwLi616vEstCmzpchsCSPb-MGO6WZtfvsfKWeyUK6ahQoK-A&s",
     "category": "Utility"
   },
   {
     "name": "Wxmedit-3.1",
     "description": "AppImage for wxMEdit",
     "url": "https://github.com/VinnyVynce/wxMEdit.AppImage/releases/download/3.1_FIX1-2/wxMEdit-3.1_FIX1-2.AppImage",
-    "icon": "https://raw.githubusercontent.com/VinnyVynce/wxMEdit.AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzsq0hQ3TCcGViP0c3iV7UxPGoI08FIJ_jSytq5IeXwbVJ4w9NK_uqvtP0BIk&s",
     "category": "Utility"
   },
   {
     "name": "Deadbeef-1.10.0",
     "description": "Unofficial AppImage of the DeaDBeeF music player. (Stable and Nightly versions). [Maintainer=@Samueru-sama]",
     "url": "https://github.com/pkgforge-dev/DeaDBeeF-AppImage/releases/download/1.10.0-1/DeaDBeeF-1.10.0-1-anylinux-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/pkgforge-dev/DeaDBeeF-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6BpH1CQ8D_wn0Mvk_-_c1APSeORvUoy8uf1LB3FMuUjQpnM08QFh-iV8zidY&s",
     "category": "Utility"
   },
   {
     "name": "Gimp-3.0.4",
     "description": "Unofficial AppImage of GIMP that also includes PhotoGIMP. [Maintainer=@Samueru-sama]",
     "url": "https://github.com/pkgforge-dev/GIMP-and-PhotoGIMP-AppImage/releases/download/3.0.4-3/GIMP-3.0.4-3-anylinux-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/pkgforge-dev/GIMP-and-PhotoGIMP-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXs0-g2lKNzMYdkYHhpYLVDOko4JCuDnv80htRrOyVU37dwKC-SYzfm3-IF-g&s",
     "category": "Utility"
   },
   {
     "name": "Cubic-focal",
     "description": "Cubic (Custom Ubuntu ISO Creator) is a GUI wizard to create a customized Ubuntu Live ISO image.  Cubic permits effortless navigation through the ISO customization steps and features an integrated virtual command line environment to customize the Linux file system. You can create new customization projects or modify existing projects. Important parameters are dynamically populated with intelligent defaults to simplify the customization process.",
     "url": "https://github.com/titenko/Cubic-Custom-Ubuntu-ISO-Creator-AppImage/releases/download/2022.01.70/Cubic-Focal-2022.01.70-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/titenko/Cubic-Custom-Ubuntu-ISO-Creator-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa69YSMkJtxVvthQG8cIkwEXQ83IL0todmvzAwMJt-ikTw3DXBerQO9HtgUEY&s",
     "category": "Utility"
   },
   {
     "name": "Wine-x86-2",
     "description": null,
     "url": "https://github.com/lucasmz1/wine_appimage/releases/download/continuous-stable-original/wine-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/lucasmz1/wine_appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh4A5PeSmI7Mb4sh9-oPNAA2I9TzRERmTOQ9eQwv4GnDE57JnHu4G3DErDEQ&s",
     "category": "Utility"
   },
   {
     "name": "Anydesk",
     "description": null,
     "url": "https://github.com/area-of-dev/AnyDesk.AppImage/releases/download/latest/AnyDesk.AppImage",
-    "icon": "https://raw.githubusercontent.com/area-of-dev/AnyDesk.AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6jA2h_48GYkOhuzcbL6BGaI0cr7tLyP-L7DfCVC_4Yu0E5PcDPbqv6VZkJA&s",
     "category": "Utility"
   },
   {
     "name": "Gimp",
     "description": null,
     "url": "https://github.com/area-of-dev/Gimp.AppImage/releases/download/latest/Gimp.AppImage",
-    "icon": "https://raw.githubusercontent.com/area-of-dev/Gimp.AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXs0-g2lKNzMYdkYHhpYLVDOko4JCuDnv80htRrOyVU37dwKC-SYzfm3-IF-g&s",
     "category": "Utility"
   },
   {
     "name": "Masterpdfeditor",
     "description": null,
     "url": "https://github.com/area-of-dev/Master-PDF-Editor.AppImage/releases/download/latest/MasterPDFEditor.AppImage",
-    "icon": "https://raw.githubusercontent.com/area-of-dev/Master-PDF-Editor.AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTccG30Ac7NlAMkignbMU2UT7qApOf1PAVEb7zO0IIn8IrOzMSsAuGCqI-ICM&s",
     "category": "Utility"
   },
   {
     "name": "Telegram",
     "description": null,
     "url": "https://github.com/area-of-dev/Telegram.AppImage/releases/download/latest/Telegram.AppImage",
-    "icon": "https://raw.githubusercontent.com/area-of-dev/Telegram.AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtpXizeTgrg7ZDRMA6PTeHGYDvZgJkx_v25uYbYJ2PXpODgfZl_fD6bojSDQ&s",
     "category": "Utility"
   },
   {
     "name": "Opera",
     "description": null,
     "url": "https://github.com/area-of-dev/Opera.AppImage/releases/download/latest/Opera.AppImage",
-    "icon": "https://raw.githubusercontent.com/area-of-dev/Opera.AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhCj8eL5C4UTFOwD22OXevmSZ9bc_eYdfeiu-KVlrTAAEHSF2TnfrbHtTsA6w&s",
     "category": "Utility"
   },
   {
     "name": "Pycharm-2025.1.2",
     "description": " PyCharm in AppImage",
     "url": "https://github.com/ryuuzaki42/PyCharm_AppImage/releases/download/2025.1.2/PyCharm-2025.1.2-1_JB-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ryuuzaki42/PyCharm_AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjBf76qRd_lQQ8bO1JOGpl3EUiZx78_m0LdXwLZxf0DuU_uCLWGEBjBhYvN_E&s",
     "category": "Utility"
   },
   {
     "name": "Signal-5.12.0",
     "description": "Signal-Desktop client for linux. An AppImage for running in different distros of Linux.",
     "url": "https://github.com/mosssahel/Signal-Desktop-AppImage/releases/download/5.12.0/Signal-5.12.0-beta.1.AppImage",
-    "icon": "https://raw.githubusercontent.com/mosssahel/Signal-Desktop-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXlBuHosAVa7JdDYW-62I0V9MBFYWfJQB3T9f45MHstnTSXdGKsccu1BgUtyU&s",
     "category": "Utility"
   },
   {
     "name": "Taskcoach-appimage",
     "description": "AppImage builder script and AppImage for Task Coach.",
     "url": "https://github.com/fluks/taskcoach-appimage/releases/download/v0.1.0/taskcoach-appimage-0.1.0-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/fluks/taskcoach-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMKKzXhXZcZIhI9FjQRvMFkq3flQS4z2z4StfYnouhhCMqlEAePeRIjSo33g&s",
     "category": "Utility"
   },
   {
     "name": "Keepnote-0.7.8",
     "description": "AppImage build of keepnot",
     "url": "https://github.com/azubieta/keepnote-appimage/releases/download/latest/keepnote-0.7.8-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/azubieta/keepnote-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5wEaJKtp-KDkDhazkDlLSC41Yke5EJaGTWxu1EAA_1rG_Tew1vmctpgvtZQ&s",
     "category": "Utility"
   },
   {
     "name": "Art-master",
     "description": null,
     "url": "https://github.com/aferrero2707/art-appimage/releases/download/nightly/ART-master-1.0-9-g180f67a-20200130.AppImage",
-    "icon": "https://raw.githubusercontent.com/aferrero2707/art-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp8_S0k6Hv_NL-bsNY82lNP1FarWW3k0byU8x7k1Av_RiIuzaL-CmJKx9dfA&s",
     "category": "Utility"
   },
   {
     "name": "Pycharm-community",
     "description": "PyCharm AppImage. The Python IDE for Professional Developers. PyCharm is designed by programmers, for programmers, to provide all the tools you need for productive Python development.",
     "url": "https://github.com/felipefacundes/pycharm-appimage/releases/download/v2022.2.2/PyCharm_Community_Edition.2022.2.2-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/felipefacundes/pycharm-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjBf76qRd_lQQ8bO1JOGpl3EUiZx78_m0LdXwLZxf0DuU_uCLWGEBjBhYvN_E&s",
     "category": "Utility"
   },
   {
     "name": "Org.gnu.bash-x86",
     "description": "Statically linked runtime for AppImages",
     "url": "https://github.com/AppImageCrafters/appimage-runtime/releases/download/test/org.gnu.bash-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/AppImageCrafters/appimage-runtime/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR0Wp_aB6lsgiYvnifgSKh11QosUB9bPkRkejT-m5WvtFakjmEjZ4M7jpvuEA&s",
     "category": "Utility"
   },
   {
     "name": "Document-viewer",
     "description": "Unofficial, document viewer for popular document formats.",
     "url": "https://github.com/ivan-hc/Evince-appimage/releases/download/continuous/Document-Viewer_48.0-3-archimage4.3-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ivan-hc/Evince-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYBfOr8z3AtShJRFn9g1S28KcRvXxZvuYfG_c3DZspFeIIvZjmU81s2CdE9-M&s",
     "category": "Utility"
   },
   {
     "name": "Xulrunner",
     "description": "Building AppImages for XULRunner",
     "url": "https://github.com/ronsorlabsoss/xulrunner-appimage/releases/download/2019.06.12/xulrunner.AppImage",
-    "icon": "https://raw.githubusercontent.com/ronsorlabsoss/xulrunner-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ73MV7C1p8B9-pCU8adRbwsE5F9pcjKqCGAwEx-ZMiiULgmJxsn5Fz_fN_YA&s",
     "category": "Utility"
   },
   {
     "name": "Pnpm",
     "description": "📦 pnpm in a single file, powered by AppImage ",
     "url": "https://github.com/simnalamburt/pnpm.appimage/releases/download/v10.12.2/pnpm-aarch64.AppImage",
-    "icon": "https://raw.githubusercontent.com/simnalamburt/pnpm.appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyoDy_cZgtb5qjH2fSo0dybjpBhl49nR6aBdK4Ny7luZquOGGu87fl0FP9zQ&s",
     "category": "Utility"
   },
   {
     "name": "Powershell-v7.5.1",
     "description": "Unofficial, a task automation and configuration management program from Microsoft, consisting of a command-line shell and the associated scripting language.",
     "url": "https://github.com/ivan-hc/PowerShell-appimage/releases/download/continuous/PowerShell-v7.5.1-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ivan-hc/PowerShell-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdcfPyWvgRKhVvA2ex682nlzpSLX8epjnPSYvbihMLcS3YfGIM82roiwemo38&s",
     "category": "Utility"
   },
   {
     "name": "Sat-0.1",
     "description": "Simple AppImage thumbnailer in POSIX shell",
     "url": "https://github.com/Samueru-sama/simple-appimage-thumbnailer/releases/download/0.1/sat-0.1-anylinux-aarch64.AppImage",
-    "icon": "https://raw.githubusercontent.com/Samueru-sama/simple-appimage-thumbnailer/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-fKuzTI2c4shBebmLTIxlLayOf4N07Iydekld1evjN28Ask6-RSur5vqvY0w&s",
     "category": "Utility"
   },
   {
     "name": "Makemkv-x86",
     "description": "A build system to build MakeMKV from source and create an AppImage from that, so that it can be run on many systems without installing dependencies.",
     "url": "https://github.com/uncle-ben-devel/makemkv-appimage/releases/download/1.17.6/MakeMKV-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/uncle-ben-devel/makemkv-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv5gyXw7AnALNJOSLYQc0NjV_-B7tZryAT-MZep1TBlcAmZaKK1BgQn9lbYQ&s",
     "category": "Utility"
   },
   {
     "name": "Calibre-8.5.0",
     "description": "Calibre in AppImage",
     "url": "https://github.com/ryuuzaki42/Calibre_AppImage/releases/download/8.5.0/Calibre-8.5.0-1_JB-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ryuuzaki42/Calibre_AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGTh3OmVRixaJHmqEaUI3tYbBD14Ocd3LY9YJa3R_OTIdzO1pFvaCjRn4AlS4&s",
     "category": "Utility"
   },
   {
     "name": "Ladybird-f573109",
     "description": null,
     "url": "https://github.com/probonopd/Ladybird.AppImage/releases/download/continuous/Ladybird-f573109-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/probonopd/Ladybird.AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx21T_fE-WqZH7Og71-DhOujgXk9BiAaFWMj6amS7rTkY41k-D6MNAc6evxDg&s",
     "category": "Utility"
   },
   {
     "name": "Tmux-eaw",
     "description": "tmux-eaw-appimage -- 野良差分ファイルを適用した tmux を起動する AppImage パッケージファイル作成用の Vagrantfile",
     "url": "https://github.com/z80oolong/tmux-eaw-appimage/releases/download/v3.6-CURRENT_HEAD/tmux-eaw-HEAD-36fba4cc-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/z80oolong/tmux-eaw-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNlEhxRQ9V2ZYnYVd4W5i5UjNFe4OyA8cVIKLq6QMgy8fxFRwGQ8Xgfuj4p20&s",
     "category": "Utility"
   },
   {
     "name": "Godot-x86",
     "description": "AppImage for Godot Engine – Multi-platform 2D and 3D game engine",
     "url": "https://github.com/stupid-kid-af/Godot-AppImage/releases/download/4.0-dev/Godot-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/stupid-kid-af/Godot-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHUSKZJH6h8xM5uzunC6bwIwKMG5e9w-SzaY0xOITsazxAm9YOPEz7DEjsarY&s",
     "category": "Utility"
   },
   {
     "name": "Emerge-stage3",
     "description": "emerge AppImage",
     "url": "https://github.com/ferion11/emerge_AppImage/releases/download/continuous-main/emerge-stage3-amd64-openrc-20250615T163733Z.AppImage",
-    "icon": "https://raw.githubusercontent.com/ferion11/emerge_AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4QfUfoLfH3wZkJO7vRy4ZgmUhEjVsoj-Sj-m33Cd5bGCCkFMI5gHCdKu3e0M&s",
     "category": "Utility"
   },
   {
     "name": "Syncplay-1.7.4",
     "description": "Syncplay in AppImage",
     "url": "https://github.com/ryuuzaki42/Syncplay_AppImage/releases/download/1.7.4/Syncplay-1.7.4-1_JB-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ryuuzaki42/Syncplay_AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS04nqmphnr_BOz8UlJoB-af9IFoNgo3m7Ez_gQVNRHxtbDSEA07BSroxkxbg&s",
     "category": "Utility"
   },
   {
     "name": "Carbonyl",
     "description": "Carbonyl web browser packaged as an AppImage",
     "url": "https://github.com/niutech/Carbonyl.AppImage/releases/download/v0.0.3/Carbonyl.AppImage",
-    "icon": "https://raw.githubusercontent.com/niutech/Carbonyl.AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnHabo4nZ6ao99KTmiYOJucNHrJ5EyA5knSEmyfT3dUlZP-VNlSIsJi69fVx8&s",
     "category": "Utility"
   },
   {
     "name": "Kdeconnect-25.04.2",
     "description": "Unofficial AppImage of kdeconnect. [Maintainer=@Samueru-sama] ",
     "url": "https://github.com/pkgforge-dev/kdeconnect-AppImage/releases/download/25.04.2-1/kdeconnect-25.04.2-1-anylinux-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/pkgforge-dev/kdeconnect-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpx6p33Mf_qGZrbhKLFcEDadwGFl4uZBPkKFtnbi6tA6lI4fLpf0TXz8CHOMY&s",
     "category": "Utility"
   },
   {
     "name": "Lbry-8",
     "description": "Inofficial LBRY AppImage until there is an official one",
     "url": "https://github.com/probonopd/LBRY.AppImage/releases/download/continuous/LBRY-8-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/probonopd/LBRY.AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEMqcnZDgDu6kEhSHBg4jVhKnyf3QwYxk-8pM2ppKrmz_7A-HM9oMUQ8PHQiw&s",
     "category": "Utility"
   },
   {
     "name": "Alacritty-0.15.1",
     "description": "Unofficial AppImage of alacritty [Maintainer=@Samueru-sama] ",
     "url": "https://github.com/pkgforge-dev/alacritty-AppImage/releases/download/0.15.1-1/alacritty-0.15.1-1-anylinux-aarch64.AppImage",
-    "icon": "https://raw.githubusercontent.com/pkgforge-dev/alacritty-AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyouOSVfyXuhcEUUqLtvPnq3mKkUfOQ-4WxVK8vuWrFVwZX9MsziRLNC4-ICc&s",
     "category": "Utility"
   },
   {
     "name": "Game-conqueror2",
     "description": "Memory scanner designed to isolate the adress of an arbitrary variable in an executing process (gtk GUI)",
     "url": "https://github.com/lucasmz1/Game_Conqueror_AppImage/releases/download/0.17_2/Game_Conqueror2.AppImage",
-    "icon": "https://raw.githubusercontent.com/lucasmz1/Game_Conqueror_AppImage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkMxvIDWReyaePS8px3anjIUO6FYsL6Vokynvojf9kVmwWFrFfsYqlo0JRPaA&s",
     "category": "Utility"
   },
   {
     "name": "Opera-67.0.3575.97",
     "description": "A playground repo to test new CI",
     "url": "https://github.com/tyu1996/opera-AppImage-2/releases/download/continuous/Opera_67.0.3575.97-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/tyu1996/opera-AppImage-2/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhCj8eL5C4UTFOwD22OXevmSZ9bc_eYdfeiu-KVlrTAAEHSF2TnfrbHtTsA6w&s",
     "category": "Utility"
   },
   {
     "name": "Openmpt-1.28.04.00.glibc2.14",
     "description": "Custom AppImage for OpenMPT with bundled Wine",
     "url": "https://github.com/jpcima/AppImage-OpenMPT/releases/download/1.28.04.00/OpenMPT-1.28.04.00.glibc2.14-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/jpcima/AppImage-OpenMPT/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlUPxOsHb7f7GGXAhk8bql18pZOEdQ2vVRHwyoaTfBozp6aI4J7UxjLivopA&s",
     "category": "Utility"
   },
   {
     "name": "Io.elementary.sideload-6.3.0",
     "description": "Unofficial, highly EXPERIMENTAL AppImage of \"Sideload\", from elementary OS, utility to install Flatpak apps from Flathub.",
     "url": "https://github.com/ivan-hc/io.elementary.sideload-appimage/releases/download/continuous/io.elementary.sideload-6.3.0_r1160_pkg17_ubuntu7.1.1-x86_64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ivan-hc/io.elementary.sideload-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkwNfvftRSx_ubJaU5Og7Zi9hAYw4vHXGN-i6LPxPtygHbFQy7kaLPLhIvPe0&s",
     "category": "Utility"
   },
   {
     "name": "Supertuxkart-1.4",
     "description": "Unofficial, a 3D open-source arcade racer with a variety characters, tracks, and modes to play.",
     "url": "https://github.com/ivan-hc/SuperTuxKart-appimage/releases/download/continuous-stable/SuperTuxKart_1.4-aarch64.AppImage",
-    "icon": "https://raw.githubusercontent.com/ivan-hc/SuperTuxKart-appimage/master/icon.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShxysb00vjrd9YCt37ztTLYLMzuds4GOveHUU5Lu8CcBTG6gn0dq4lLAXXlQ&s",
     "category": "Utility"
   },
   {
@@ -3050,5 +3050,1636 @@
     "url": "https://rawtherapee.com/shared/builds/linux/RawTherapee_5.12_release.AppImage",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/RawTherapee_logo-circle.svg/101px-RawTherapee_logo-circle.svg.png",
     "category": "Tools"
+  },
+  {
+    "name": "Firefox-stable-2",
+    "description": "Unofficial AppImages built on top of the official portable builds (Stable, ESR, Beta, Devedition, Nightly). Firefox is a free and open-source web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation.",
+    "url": "https://github.com/ivan-hc/Firefox-appimage/releases/download/continuous-stable/Firefox-stable-140.0-x86_64.AppImage",
+    "icon": "",
+    "category": "Utility"
+  },
+  {
+    "name": "Opera-jb",
+    "description": "Opera in AppImage",
+    "url": "https://github.com/ryuuzaki42/Opera_AppImage/releases/download/119.0.5497.131/Opera-119.0.5497.131-1_JB-x86_64.AppImage",
+    "icon": "",
+    "category": "Utility"
+  },
+  {
+    "name": "Appimagehandler-i",
+    "description": "A package-manager-like tool for integrating AppImages into the desktop environment",
+    "url": "https://github.com/lukebemish/appimagehandler/releases/download/0.0.2/appimagehandler_i386.AppImage",
+    "icon": "",
+    "category": "Utility"
+  },
+  {
+    "name": "Firefox-nightly.r",
+    "description": "Mozilla Firefox Stable AppImages by Continuous Integration",
+    "url": "https://github.com/srevinsaju/Firefox-Appimage/releases/download/firefox-nightly/firefox-nightly-142.0.r20250624211752-x86_64.AppImage",
+    "icon": "https://raw.githubusercontent.com/srevinsaju/Firefox-Appimage/master/icon.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Discord-x",
+    "description": "Continuous Integration to create Discord AppImages directly from source",
+    "url": "https://github.com/srevinsaju/discord-appimage/releases/download/stable/Discord-0.0.99-x86_64.AppImage",
+    "icon": "https://raw.githubusercontent.com/srevinsaju/discord-appimage/master/icon.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Emacs-master-2",
+    "description": null,
+    "url": "https://github.com/blahgeek/emacs-appimage/releases/download/github-action-build-15864114109/Emacs-master-gtk3-aarch64.AppImage",
+    "icon": "https://raw.githubusercontent.com/blahgeek/emacs-appimage/master/icon.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Ghostty-main+aad",
+    "description": "👻 ⚙️ AppImage for Ghostty Terminal Emulator [Maintainer=@psadi]",
+    "url": "https://github.com/pkgforge-dev/ghostty-appimage/releases/download/tip/Ghostty-1.1.4-main%2B00aad86-aarch64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Brave-nightly-2",
+    "description": null,
+    "url": "https://github.com/srevinsaju/Brave-AppImage/releases/download/v1.82.18/Brave-nightly-v1.82.18-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Ungoogled-chromium",
+    "description": "Portable Linux packaging for ungoogled-chromium",
+    "url": "https://github.com/ungoogled-software/ungoogled-chromium-portablelinux/releases/download/137.0.7151.119-1/ungoogled-chromium_137.0.7151.119-1.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Betterdiscord-linux",
+    "description": "A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.",
+    "url": "https://github.com/BetterDiscord/Installer/releases/download/v1.3.0/BetterDiscord-Linux.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Ubports-installer",
+    "description": "A simple tool to install Ubuntu Touch on UBports devices",
+    "url": "https://github.com/ubports/ubports-installer/releases/download/0.11.1/ubports-installer_0.11.1_linux_x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Ocat-linux",
+    "description": "Cross-platform GUI management tools for OpenCore（OCAT）",
+    "url": "https://github.com/ic005k/OCAuxiliaryTools/releases/download/20250001/OCAT-Linux-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Ghostty-main+aad-2",
+    "description": "👻 ⚙️ AppImage for Ghostty Terminal Emulator [Maintainer=@psadi]",
+    "url": "https://github.com/pkgforge-dev/ghostty-appimage/releases/download/tip/Ghostty-1.1.4-main%2B00aad86-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Cargo-appimage-2",
+    "description": "Converts your crate into an AppImage",
+    "url": "https://github.com/StratusFearMe21/cargo-appimage/releases/download/v2.2.0/cargo-appimage.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Prusaslicer-aarch",
+    "description": "PrusaSlicer packaged in a ARM AppImage. Pre-built AppImages located within releases.",
+    "url": "https://github.com/davidk/PrusaSlicer-ARM.AppImage/releases/download/version_2.9.2/PrusaSlicer-2.9.2-aarch64-trixie.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Emacs-master-3",
+    "description": null,
+    "url": "https://github.com/blahgeek/emacs-appimage/releases/download/github-action-build-15864114109/Emacs-master-gtk3-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Basiliskii-i",
+    "description": "Builds the popular classic Macintosh emulators BasiliskII and SheepShaver from source to create AppImages",
+    "url": "https://github.com/Korkman/macemu-appimage-builder/releases/download/continuous/BasiliskII-i386.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Netease-cloud-2",
+    "description": "netease-cloud-music AppImage",
+    "url": "https://github.com/holazt/netease-cloud-music-appimage/releases/download/1.2.0.3-2/NetEase_Cloud_Music-SQ-1.2.0.3-2-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Wechat-x",
+    "description": "Linux 运行微信（可能是）最简单的方法，支持 debian/Arch/RHEL 三大发行版系列",
+    "url": "https://github.com/KZ25T/wechat-appimage/releases/download/v1.0.0.241%2Ball_distro/wechat-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Dolphin-emulator-3",
+    "description": "Dolphin emu is a Nintendo Game Cube and Wii emulator, it allows the computer gammers enjoy both Consoles in the computer with the capability of 1080p [Maintainer=@lucasmz1|@Samueru-sama]",
+    "url": "https://github.com/pkgforge-dev/Dolphin-emu-AppImage/releases/download/nightly/Dolphin_Emulator-c2aaca2b1-anylinux.dwarfs-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Appimagecraft-i",
+    "description": "Powerful build script generator with a focus on making AppImages.",
+    "url": "https://github.com/TheAssassin/appimagecraft/releases/download/continuous/appimagecraft-i386.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Appimageupdatercli-x",
+    "description": "AppImage Updater for Humans built with QML/C++ with Qt5  :heart:.",
+    "url": "https://github.com/antony-jr/AppImageUpdater/releases/download/v2.0.0/appimageupdatercli-v2.0.0-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Chromium-candidate",
+    "description": "Continuous Stable/Candidate/Beta/Edge releases built from the Snap packages.",
+    "url": "https://github.com/ivan-hc/Chromium-Web-Browser-appimage/releases/download/continuous/Chromium-candidate-137.0.7151.119-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Scrcpy-gcf",
+    "description": null,
+    "url": "https://github.com/srevinsaju/scrcpy-appimage/releases/download/continuous/scrcpy-v1.25-1-g4c43784f-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Hugin-panorama-2",
+    "description": "Build scripts for the Hugin AppImage",
+    "url": "https://github.com/aferrero2707/hugin-appimage/releases/download/continuous/Hugin_Panorama_Creator-2019.0.0_rc1-20190323-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Microsoft-edge-2",
+    "description": "Unofficial, a proprietary cross-platform web browser created by Microsoft and based on the Chromium open-source project, superseding Edge Legacy. Built from the official DEBs.",
+    "url": "https://github.com/ivan-hc/MS-Edge-appimage/releases/download/continuous/Microsoft-Edge-dev-139.0.3380.1-1-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Aws-x",
+    "description": ":package: AWS CLI v2 in a single file, powered by AppImage",
+    "url": "https://github.com/simnalamburt/awscliv2.appimage/releases/download/v2.27.41/aws-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Gnucash-x",
+    "description": "AppImage build for gnucash",
+    "url": "https://github.com/ecmu/gnucash.AppImage/releases/download/5.9/GnuCash-5.9-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Signal-x",
+    "description": "Latest Stable AppImage build of Signal Desktop: https://github.com/signalapp/Signal-Desktop",
+    "url": "https://github.com/karo-solutions/Signal-Desktop-AppImage/releases/download/v7.58.0/Signal-v7.58.0-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Opera-x",
+    "description": "The AppImage build of Opera web browser",
+    "url": "https://github.com/tyu1996/opera-AppImage/releases/download/continuous/Opera_72.0.3815.207-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Vivaldi-snapshot-2",
+    "description": "Unofficial, Vivaldi Web Browser Stable/Snapshot  built from the official deb packages.",
+    "url": "https://github.com/ivan-hc/Vivaldi-appimage/releases/download/continuous/Vivaldi-snapshot-7.5.3731.3-1-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Mpv-gdefc",
+    "description": "Unofficial AppImage of mpv [Maintainer=@Samueru-sama]",
+    "url": "https://github.com/pkgforge-dev/mpv-AppImage/releases/download/v0.40.0-138-g18defc853/mpv-v0.40.0-138-g18defc853-anylinux-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Anydesk-x",
+    "description": "AppImage for Linux",
+    "url": "https://github.com/gasuncom/AppImage/releases/download/AppImage/AnyDesk-6.2.0-1-x86_64-proot-unionfs.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Opera-web-2",
+    "description": "Unofficial AppImages for Opera Web Browser Stable, Beta and Developer.",
+    "url": "https://github.com/ivan-hc/Opera-appimage/releases/download/continuous/Opera-Web-Browser-developer-121.0.5572.0-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Kodi.git.glibc-x",
+    "description": "unofficial Kodi  AppImage , Kodi stable version import from ppa repository",
+    "url": "https://github.com/cmatomic/Appimage-003/releases/download/continuous/Kodi-18.8.git20200728.1313.glibc2.17-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Teams-for",
+    "description": "Unofficial Microsoft Teams for Linux client",
+    "url": "https://github.com/IsmaelMartinez/teams-for-linux/releases/download/v2.0.18/teams-for-linux-2.0.18-arm64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Pokete-x",
+    "description": "A terminal based Pokemon like game",
+    "url": "https://github.com/lxgr-linux/pokete/releases/download/0.9.2/Pokete-0.9.2-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Figma-linux",
+    "description": "Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux",
+    "url": "https://github.com/Figma-Linux/figma-linux/releases/download/v0.11.5/figma-linux_0.11.5_linux_arm64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Linuxdeployqt-continuous",
+    "description": "Makes Linux applications self-contained by copying in the libraries and plugins that the application uses, and optionally generates an AppImage. Can be used for Qt and other applications",
+    "url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-aarch64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Android-file",
+    "description": "Android File Transfer for Linux (and macOS!)",
+    "url": "https://github.com/whoozle/android-file-transfer-linux/releases/download/v4.5/Android_File_Transfer_For_Linux-9b96659-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Ghostty-glfw",
+    "description": "👻 ⚙️ AppImage for Ghostty Terminal Emulator [Maintainer=@psadi]",
+    "url": "https://github.com/pkgforge-dev/ghostty-appimage/releases/download/tip/Ghostty_Glfw-1.1.4-main%2B00aad86-aarch64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Emacs-master-4",
+    "description": null,
+    "url": "https://github.com/blahgeek/emacs-appimage/releases/download/github-action-build-15864114109/Emacs-master-lucid-aarch64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Basiliskii-x",
+    "description": "Builds the popular classic Macintosh emulators BasiliskII and SheepShaver from source to create AppImages",
+    "url": "https://github.com/Korkman/macemu-appimage-builder/releases/download/continuous/BasiliskII-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Dolphin-emulator-4",
+    "description": "Dolphin emu is a Nintendo Game Cube and Wii emulator, it allows the computer gammers enjoy both Consoles in the computer with the capability of 1080p [Maintainer=@lucasmz1|@Samueru-sama]",
+    "url": "https://github.com/pkgforge-dev/Dolphin-emu-AppImage/releases/download/nightly/Dolphin_Emulator-c2aaca2b1-anylinux.squashfs-aarch64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Appimagecraft-x",
+    "description": "Powerful build script generator with a focus on making AppImages.",
+    "url": "https://github.com/TheAssassin/appimagecraft/releases/download/continuous/appimagecraft-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Streamlink-cp",
+    "description": "Streamlink Linux AppImage builds",
+    "url": "https://github.com/streamlink/streamlink-appimage/releases/download/7.4.0-1/streamlink-7.4.0-1-cp313-cp313-manylinux_2_28_x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Wechat-x-2",
+    "description": "微信客户端Linux AppImage. AppImage version of wechat for linux desktop. ",
+    "url": "https://github.com/zydou/WeChat-AppImage/releases/download/4.0.0.21/WeChat-4.0.0.21-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Linuxdeploy-plugin-2",
+    "description": "Plugin for linuxdeploy. Creates AppImages from AppDirs.",
+    "url": "https://github.com/linuxdeploy/linuxdeploy-plugin-appimage/releases/download/continuous/linuxdeploy-plugin-appimage-armhf.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Google-chrome-4",
+    "description": "Unofficial AppImages of Google Chrome Stable, Beta and Unstable.",
+    "url": "https://github.com/ivan-hc/Chrome-appimage/releases/download/continuous/Google-Chrome-stable-137.0.7151.119-1-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Appimagetool-armhf",
+    "description": "Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.chat",
+    "url": "https://github.com/AppImage/AppImageKit/releases/download/continuous/appimagetool-armhf.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Appimagelauncher-lite-2",
+    "description": "Helper application for Linux distributions serving as a kind of \"entry point\" for running and integrating AppImages",
+    "url": "https://github.com/TheAssassin/AppImageLauncher/releases/download/continuous/appimagelauncher-lite-3.0.0-alpha-4-gha261-armhf.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Appimaged-armhf",
+    "description": "Go implementation of AppImage tools",
+    "url": "https://github.com/probonopd/go-appimage/releases/download/continuous/appimaged-891-armhf.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Pkgappimageeceb-x",
+    "description": "Tool and recipes to convert existing deb packages to AppImage ",
+    "url": "https://github.com/AppImageCommunity/pkg2appimage/releases/download/continuous/pkg2appimage-1eceb30-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Appimageupdate-armhf",
+    "description": "AppImageUpdate lets you update AppImages in a decentral way using information embedded in the AppImage itself.",
+    "url": "https://github.com/AppImageCommunity/AppImageUpdate/releases/download/continuous/AppImageUpdate-armhf.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Wine-x",
+    "description": "Appimage For Wine",
+    "url": "https://github.com/Hackerl/Wine_Appimage/releases/download/v3.0/Wine-x86_64-debian.sid.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Minecraft-bedrock-2",
+    "description": "Only for Github Actions, The hacked linux-packaging-scripts of minecraft-linux (endless tweaked)",
+    "url": "https://github.com/minecraft-linux/appimage-builder/releases/download/v1.1.1-802/Minecraft_Bedrock_Launcher-armhf-v1.1.1.802.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Appimaged-x",
+    "description": "appimaged is a daemon that monitors the system and integrates AppImages.",
+    "url": "https://github.com/AppImageCommunity/appimaged/releases/download/continuous/appimaged-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Appimagetool-armhf-2",
+    "description": "A low-level tool to generate an AppImage from an existing AppDir",
+    "url": "https://github.com/AppImage/appimagetool/releases/download/continuous/appimagetool-armhf.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Python-cp",
+    "description": "AppImage distributions of Python",
+    "url": "https://github.com/niess/python-appimage/releases/download/python3.9/python3.9.13-cp39-cp39-manylinux2010_x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Gimp-appimage-2",
+    "description": null,
+    "url": "https://github.com/aferrero2707/gimp-appimage/releases/download/continuous/GIMP_AppImage-git-2.10.13-20191010-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Citronbb-anylinux",
+    "description": "Unofficial AppImage of Citron, with optimized builds for modern cpus. [Maintainer=@Samueru-sama] ",
+    "url": "https://github.com/pkgforge-dev/Citron-AppImage/releases/download/nightly/Citron-046538bb4-anylinux-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Gvim.glibc-x",
+    "description": "AppImage for gVim",
+    "url": "https://github.com/vim/vim-appimage/releases/download/v9.1.1478/GVim-v9.1.1478.glibc2.34-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Ad-x",
+    "description": "@0ad appimage",
+    "url": "https://github.com/0ad-matters/0ad-appimage/releases/download/v0.27.0/0ad-0.27.0-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Ibus-rime-2",
+    "description": null,
+    "url": "https://github.com/hchunhui/ibus-rime.AppImage/releases/download/continuous/ibus-rime-x86_64.minimal.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Postman-x",
+    "description": "Postman AppImage format (Unofficial)",
+    "url": "https://github.com/suciptoid/postman-appimage/releases/download/continous/Postman-10.1.2-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Love-x",
+    "description": "Scripts to create AppImages of löve (https://love2d.org/)",
+    "url": "https://github.com/pfirsich/love-appimages/releases/download/v3/love-0.9.2-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Pcsx-nvidia",
+    "description": "PCSX2 Appimage that include all 32bits deps, for all linux 64bits (include no-multilib). Discontinued in favor of the official 64bit native version!!!",
+    "url": "https://github.com/ferion11/PCSX2_Appimage/releases/download/continuous-1.6.x/pcsx2_NVIDIA-1.6.0-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Tesseract-lept",
+    "description": "tesseract-ocr AppImage",
+    "url": "https://github.com/AlexanderP/tesseract-appimage/releases/download/v5.5.1/tesseract-5.5.1_lept-1.84-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Element.glibc",
+    "description": "Continuous Integration AppImages for Element Matrix Client (element.io)",
+    "url": "https://github.com/srevinsaju/element-appimage/releases/download/stable/Element-v1.11.71.glibc2.35.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Libreoffice-still.basic.help",
+    "description": "Official AppImages (converted and re-hosted) and Unofficial Archimages of LibreOffice, without libfuse2 dependency and full support for AppImageUpdate tools.",
+    "url": "https://github.com/ivan-hc/LibreOffice-appimage/releases/download/continuous-still/LibreOffice-still-24.8.7.2.basic.help-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Openpht.trusty-x",
+    "description": "Tools to convert an OpenPHT Debian package into an AppImage package.",
+    "url": "https://github.com/DEAKSoftware/OpenPHT-AppImage/releases/download/1.8.0.148/OpenPHT-1.8.0.148.Trusty-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Chirp-next-2",
+    "description": "Portable AppImage Releases of CHIRP",
+    "url": "https://github.com/goldstar611/chirp-appimage/releases/download/20250110/Chirp-next-20250110-armhf.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Azahar-enhanced-2",
+    "description": "Unofficial AppImage of Azahar, with optimized builds for modern cpus. [Maintainer=@Samueru-sama] ",
+    "url": "https://github.com/pkgforge-dev/Azahar-AppImage-Enhanced/releases/download/nightly/Azahar-Enhanced-2122.1-anylinux-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Mypaint-alpha",
+    "description": "Travis-CI scripts for automated MyPaint AppImage packaging",
+    "url": "https://github.com/mypaint/mypaint-appimage/releases/download/continuous-rotating/MyPaint-v2.1.0-alpha-386-g41be66c-2021-04-06_19.26-no-translations.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Yandex-browser-2",
+    "description": "Unofficial, Yandex Web Browser AppImage built from the official DEB packages.",
+    "url": "https://github.com/ivan-hc/Yandex-Browser-appimage/releases/download/continuous/Yandex-Browser-corporate-25.4.1.1137-1-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Aresda-anylinux",
+    "description": "Unofficial AppImage of the ares emulator [Maintainer=@bmsuseluda|@Samueru-sama] ",
+    "url": "https://github.com/pkgforge-dev/ares-emu-appimage/releases/download/nightly/ares-073d7a537-anylinux-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Sas-anylinux",
+    "description": "Tool to sandbox AppImages with bubblewrap easily in POSIX shell",
+    "url": "https://github.com/Samueru-sama/simple-appimage-sandbox/releases/download/1.0/sas-1.0-anylinux-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Srbkart-galaxy",
+    "description": "AppImage Packages for SRB2Kart",
+    "url": "https://github.com/Lonsfor/srb2k-appimage/releases/download/1.6/srb2kart-galaxy-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Obsidian",
+    "description": "Community plugins list, theme list, and releases of Obsidian.",
+    "url": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.10/Obsidian-1.8.10.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Srbkartaf-x",
+    "description": null,
+    "url": "https://github.com/4ifi/appimages/releases/download/05.06.2020/SRB2Kart-691a567f-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Luminance-hdr-2",
+    "description": "AppImage scripts for LuminanceHDR",
+    "url": "https://github.com/aferrero2707/lhdr-appimage/releases/download/continuous/luminance-hdr-git-20180422_1025.glibc2.15-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Eduke-x",
+    "description": null,
+    "url": "https://github.com/leiadpc/unofficial-appimages/releases/download/Latest/eduke32-2024-12-08-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Sat-anylinux",
+    "description": "Simple AppImage thumbnailer in POSIX shell",
+    "url": "https://github.com/Samueru-sama/simple-appimage-thumbnailer/releases/download/0.1/sat-0.1-anylinux-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Alacritty-anylinux",
+    "description": "Unofficial AppImage of alacritty [Maintainer=@Samueru-sama] ",
+    "url": "https://github.com/pkgforge-dev/alacritty-AppImage/releases/download/0.15.1-1/alacritty-0.15.1-1-anylinux-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Supertuxkart-i",
+    "description": "Unofficial, a 3D open-source arcade racer with a variety characters, tracks, and modes to play.",
+    "url": "https://github.com/ivan-hc/SuperTuxKart-appimage/releases/download/continuous-stable/SuperTuxKart_1.4-i686.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Pycharm-community-3",
+    "description": " PyCharm in AppImage",
+    "url": "https://github.com/ryuuzaki42/PyCharm_AppImage/releases/download/2025.1.2/PyCharm-community-edition-2025.1.2-1_JB-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Art-2",
+    "description": null,
+    "url": "https://github.com/aferrero2707/art-appimage/releases/download/nightly/ART_1.1.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Pnpm-x",
+    "description": "📦 pnpm in a single file, powered by AppImage ",
+    "url": "https://github.com/simnalamburt/pnpm.appimage/releases/download/v10.12.2/pnpm-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Wine-devel-2",
+    "description": "LogosLinuxInstaller is a bash script for installation of Logos Bible on Linux.",
+    "url": "https://github.com/ferion11/LogosLinuxInstaller/releases/download/wine-devel-8.19/wine-devel_8.19-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Hstwb-imagerdfdf",
+    "description": "A set of scripts to automate installation of Amiga OS, Kickstart roms and packages to new or existing Amiga HDF files",
+    "url": "https://github.com/henrikstengaard/hstwb-installer/releases/download/0.9.1430-imager/hstwb-imager_v0.9.1430-5dfdf48_linux_arm64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Alist-desktop",
+    "description": null,
+    "url": "https://github.com/AlistGo/desktop-release/releases/download/beta/alist-desktop_2025.6.17-beta.113_amd64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Api-parrot",
+    "description": "Public releases for the API Parrot desktop application",
+    "url": "https://github.com/apiparrot/apiparrot-desktop-releases/releases/download/v0.3.1/API-Parrot-0.3.1.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Eden-linux",
+    "description": "Eden's Releases",
+    "url": "https://github.com/eden-emulator/Releases/releases/download/0.0.2-pre-alpha/Eden-Linux-0.0.2-pre-alpha-amd64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Wechat-dev",
+    "description": "适用于微信小程序的微信开发者工具 Linux移植版",
+    "url": "https://github.com/msojocs/wechat-web-devtools-linux/releases/download/v1.06.2503290-3/WeChat_Dev_Tools_v1.06.2503290-3_x86_64_linux.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Bilibili",
+    "description": "基于哔哩哔哩官方客户端移植的Linux版本 支持漫游",
+    "url": "https://github.com/msojocs/bilibili-linux/releases/download/continuous/bilibili-1.16.5-arm64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Drawio-2",
+    "description": "Official electron build of draw.io",
+    "url": "https://github.com/jgraph/drawio-desktop/releases/download/v27.0.9/drawio-arm64-27.0.9.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Lx-music",
+    "description": "一个基于 electron 的音乐软件",
+    "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.11.0/lx-music-desktop_2.11.0_x64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Zen-aarch",
+    "description": "Welcome to a calmer internet",
+    "url": "https://github.com/zen-browser/desktop/releases/download/1.13.2b/zen-aarch64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Another-redis",
+    "description": "🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.",
+    "url": "https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.1/Another-Redis-Desktop-Manager-linux-1.7.1-arm64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Pot-amd",
+    "description": "🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.",
+    "url": "https://github.com/pot-app/pot-desktop/releases/download/3.0.7/pot_3.0.7_amd64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Listen-linux",
+    "description": "one for all free music in china (Windows, Mac, Linux desktop)",
+    "url": "https://github.com/listen1/listen1_desktop/releases/download/v2.33.0/listen1_2.33.0_linux_x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Popcorn-time",
+    "description": "Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork",
+    "url": "https://github.com/popcorn-official/popcorn-desktop/releases/download/v0.5.1/Popcorn-Time-0.5.1-linux64-0.44.5.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Ipfs-desktop",
+    "description": "An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux. ",
+    "url": "https://github.com/ipfs/ipfs-desktop/releases/download/v0.43.0/ipfs-desktop-0.43.0-linux-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Frpc-desktop",
+    "description": "frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本",
+    "url": "https://github.com/luckjiawei/frpc-desktop/releases/download/v1.2.2/Frpc-Desktop-1.2.2-arm64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Oblivion-desktop",
+    "description": "Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux",
+    "url": "https://github.com/bepass-org/oblivion-desktop/releases/download/v2.97.10/oblivion-desktop-linux-arm64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Appium-server",
+    "description": "Appium Server in Desktop GUIs for Mac, Windows, and Linux",
+    "url": "https://github.com/appium/appium-desktop/releases/download/v1.22.3-4/Appium-Server-GUI-linux-1.22.3-4.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Buttercup-linux",
+    "description": ":key: Cross-Platform Passwords & Secrets Vault",
+    "url": "https://github.com/buttercup/buttercup-desktop/releases/download/v2.28.1/Buttercup-linux-arm64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Google-assistant",
+    "description": "A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK)",
+    "url": "https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client/releases/download/v1.1.0/Google-Assistant-Setup-1.1.0-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Desktopeditors-x",
+    "description": "Open-source office suite pack that comprises all the tools you need to work with documents, spreadsheets, presentations, PDFs, and PDF forms on Windows, Linux, and macOS",
+    "url": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.0.0/DesktopEditors-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Lbry",
+    "description": "A browser and wallet for LBRY, the decentralized, user-controlled content marketplace.",
+    "url": "https://github.com/lbryio/lbry-desktop/releases/download/v0.53.9/LBRY_0.53.9.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Bitwarden-x",
+    "description": "The desktop vault (Windows, macOS, & Linux).",
+    "url": "https://github.com/bitwarden/desktop/releases/download/v2022.5.1/Bitwarden-2022.5.1-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Httpie",
+    "description": "🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs.",
+    "url": "https://github.com/httpie/desktop/releases/download/v2025.2.0/HTTPie-2025.2.0-arm64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Devdocs",
+    "description": "🗂 A full-featured desktop app for DevDocs.io.",
+    "url": "https://github.com/egoist/devdocs-desktop/releases/download/v0.7.2/DevDocs-0.7.2.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Mattermost-desktop",
+    "description": "Mattermost Desktop application for Windows, Mac and Linux",
+    "url": "https://github.com/mattermost/desktop/releases/download/v5.12.1/mattermost-desktop-5.12.1-linux-arm64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Webos-dev",
+    "description": "Device/DevMode Manager for webOS TV",
+    "url": "https://github.com/webosbrew/dev-manager-desktop/releases/download/v1.99.14/webos-dev-manager_1.99.14_aarch64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Chat-gpt",
+    "description": "Fuel your productivity with ChatGPT-Desktop - Blazingly fast and supercharged!",
+    "url": "https://github.com/Synaptrix/ChatGPT-Desktop/releases/download/v1.0.4/chat-gpt-desktop_1.0.4_amd64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "G-desktop",
+    "description": "Google Suite as a desktop app. Made possible with Electron.",
+    "url": "https://github.com/alexkim205/G-Desktop-Suite/releases/download/v0.3.1/G-Desktop-Suite-0.3.1.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Station-x",
+    "description": "One app to rule them all!",
+    "url": "https://github.com/getstation/desktop-app/releases/download/v3.3.0/Station-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Container-desktop",
+    "description": "Podman desktop companion",
+    "url": "https://github.com/iongion/container-desktop/releases/download/5.2.13/container-desktop-arm64-5.2.13.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Vray-desktop",
+    "description": "最优雅的跨平台代理客户端，支持Shadowsocks(R)，V2Ray和Trojan协议。The most elegant cross-platform proxy GUI client that supports Shadowsocks(R), V2Ray, and Trojan. Built with Qt5 and QML2.",
+    "url": "https://github.com/Dr-Incognito/V2Ray-Desktop/releases/download/2.4.0/V2Ray-Desktop-v2.4.0-linux-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Standard-notes",
+    "description": "[Moved to https://github.com/standardnotes/app] A free, open-source, and end-to-end encrypted notes app. https://standardnotes.com",
+    "url": "https://github.com/standardnotes/desktop/releases/download/v3.22.11/standard-notes-3.22.11-linux-arm64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Zap-linux",
+    "description": "Zap Wallet - Cross platform Lightning Network wallet focused on user experience and ease of use ⚡️",
+    "url": "https://github.com/LN-Zap/zap-desktop/releases/download/v0.7.7-beta/Zap-linux-x86_64-v0.7.7-beta.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Udeler-linux",
+    "description": "A desktop application for downloading Udemy Courses",
+    "url": "https://github.com/FaisalUmair/udemy-downloader-gui/releases/download/v1.8.2/Udeler-1.8.2-linux-x86_x64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Open-video",
+    "description": "A cross-platform GUI for youtube-dl made in Electron and node.js",
+    "url": "https://github.com/jely2002/youtube-dl-gui/releases/download/v2.4.0/Open-Video-Downloader-2.4.0.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Subtitle.translator",
+    "description": "↔️ Translate subtitle using ChatGPT",
+    "url": "https://github.com/gnehs/subtitle-translator-electron/releases/download/1.5.0/Subtitle.Translator-1.5.0.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Rocketchat-linux",
+    "description": "Official  OSX, Windows, and Linux Desktop Clients for Rocket.Chat ",
+    "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.6.0/rocketchat-4.6.0-linux-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Electron-mail",
+    "description": "Unofficial ProtonMail Desktop App",
+    "url": "https://github.com/vladimiry/ElectronMail/releases/download/v5.3.0/electron-mail-5.3.0-linux-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Jitsi-meet",
+    "description": "Jitsi Meet desktop application powered by :electron:",
+    "url": "https://github.com/jitsi/jitsi-meet-electron/releases/download/v2025.4.0/jitsi-meet-arm64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Arc-linux",
+    "description": "Advanced REST Client - Desktop application",
+    "url": "https://github.com/advanced-rest-client/arc-electron/releases/download/v17.0.9/arc-linux-17.0.9-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Moosync-linux",
+    "description": "Music player capable of playing local audio or from Youtube, Spotify and many more",
+    "url": "https://github.com/Moosync/Moosync-electron/releases/download/v10.3.2/Moosync-10.3.2-linux-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Apple.music",
+    "description": "Apple Music Electron is now deprecated. See our new project Cider https://github.com/ciderapp/Cider",
+    "url": "https://github.com/ciderapp/Apple-Music-Electron/releases/download/v3.0.0/Apple.Music-3.0.0.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Electronvitemonorepo",
+    "description": "Electron Turborepo monorepo with pnpm, Vue, Vite boilerplate",
+    "url": "https://github.com/buqiyuan/electron-vite-monorepo/releases/download/v0.1.0/ElectronViteMonorepo-0.1.0.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Electronreact",
+    "description": "A Foundation for Scalable Cross-Platform Apps",
+    "url": "https://github.com/electron-react-boilerplate/electron-react-boilerplate/releases/download/v4.6.0/ElectronReact-4.6.0.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Electron.fiddle",
+    "description": ":electron: 🚀 The easiest way to get started with Electron",
+    "url": "https://github.com/electron/fiddle/releases/download/v0.36.6/Electron.Fiddle-0.36.6-arm64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Electron-ssr",
+    "description": "electron-ssr原作者删除了这个伟大的项目，故备份了下来，不继续开发,且用且珍惜",
+    "url": "https://github.com/qingshuisiyuan/electron-ssr-backup/releases/download/v0.2.6/electron-ssr-0.2.6.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Simplenote-linux",
+    "description": "Simplenote for Web, Windows, and Linux",
+    "url": "https://github.com/Automattic/simplenote-electron/releases/download/v2.23.2/Simplenote-linux-2.23.2-arm64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Webpack-dashboard",
+    "description": "Electron Desktop GUI for Webpack Dashboard",
+    "url": "https://github.com/FormidableLabs/electron-webpack-dashboard/releases/download/v1.0.0/webpack-dashboard-app-1.0.0-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Test",
+    "description": "🚀Electron + Vue 仿网易云音乐windows客户端",
+    "url": "https://github.com/xiaozhu188/electron-vue-cloud-music/releases/download/v1.2.3/test-1.2.3.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Easytag-anylinux",
+    "description": "Unofficial AppImage of EasyTAG [Maintainer=@Samueru-sama] ",
+    "url": "https://github.com/pkgforge-dev/EasyTAG-AppImage/releases/download/2.4.3-14/EasyTAG-2.4.3-14-anylinux-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Visual-studio-2",
+    "description": "Visual Studio Code as AppImages.",
+    "url": "https://github.com/zyrouge/visual-studio-code-appimages/releases/download/v1.102.0-insider/visual-studio-code-insiders-armhf.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "I-patchedfee",
+    "description": "Unofficial AppImage of i3 window manager. Git builds.",
+    "url": "https://github.com/Samueru-sama/i3-AppImage/releases/download/continuous/i3-patched-7f9e607e-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Proxmox-backup-2",
+    "description": "AppImage build for proxmox-backup-client to use on Linux systems supporting appimage files",
+    "url": "https://github.com/dleidert/proxmox-backup-client.appimage/releases/download/Continuous/proxmox-backup-client-2.4.7-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Smartgit-x",
+    "description": "AppImage build for smartgit",
+    "url": "https://github.com/ecmu/smartgit.AppImage/releases/download/21.2.3/SmartGit-21.2.3-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Mysql-workbench-2",
+    "description": null,
+    "url": "https://github.com/latonaio/mysql-workbench-appimage/releases/download/v8.0.29-1/mysql-workbench-8.0.29-1-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Pavucontrol-qt-2",
+    "description": "Unofficial AppImage of pavucontrol-qt [Maintainer=@Samueru-sama]",
+    "url": "https://github.com/pkgforge-dev/pavucontrol-qt-AppImage/releases/download/2.2.0-1/pavucontrol-qt-2.2.0-1-anylinux-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Patchelf-x",
+    "description": "PatchELF packaged as an AppImage",
+    "url": "https://github.com/niess/patchelf.appimage/releases/download/rolling/patchelf-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Creamlinux-amd",
+    "description": "DLC Fetcher and installer for linux",
+    "url": "https://github.com/Novattz/creamlinux-installer/releases/download/v1.0.2-beta/Creamlinux_1.0.2_amd64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Ryujinx-linux",
+    "description": "Builds of Kenji-NX compiled & released every 2-3 weeks or so",
+    "url": "https://github.com/Kenji-NX/Releases/releases/download/2.0.4/ryujinx-2.0.4-linux_arm64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Shell-amd",
+    "description": "Shell360 is a cross-platform SSH and SFTP client.",
+    "url": "https://github.com/shell360/release/releases/download/v0.1.3/Shell360_0.1.3_amd64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Sonos-controller",
+    "description": "An Electron based linux app for controlling your sonos system.",
+    "url": "https://github.com/pascalopitz/unoffical-sonos-controller-for-linux/releases/download/v0.4.0-rc1/sonos-controller-unofficial-0.4.0-rc1-arm64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Linuxdeploy-aarch",
+    "description": "AppDir creation and maintenance tool. Featuring flexible plugin system.",
+    "url": "https://github.com/linuxdeploy/linuxdeploy/releases/download/continuous/linuxdeploy-aarch64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Claude-desktop",
+    "description": "Claude Desktop for Debian-based Linux distributions",
+    "url": "https://github.com/aaddrick/claude-desktop-debian/releases/download/v1.1.2%2Bclaude0.9.2/claude-desktop-0.9.2-amd64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Pocketbook",
+    "description": "一个完整electron桌面记账程序，技术栈主要使用electron-vue+vuetify。开机自动启动，自动更新，托盘最小化，闪烁等常用功能，Nsis制作漂亮的安装包。",
+    "url": "https://github.com/hilanmiao/LanMiaoDesktop/releases/download/v1.0.0/PocketBook-1.0.0.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Dns-changer",
+    "description": "DNS Changer for Windows, Linux, Mac operating systems",
+    "url": "https://github.com/DnsChanger/dnsChanger-desktop/releases/download/v2.3.4/DNS-Changer-linux-x86_64-2.3.4.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Httptoolkit",
+    "description": "Electron wrapper to build and distribute HTTP Toolkit for the desktop",
+    "url": "https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.20.1/HttpToolkit-1.20.1-arm64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Dat-desktop",
+    "description": "Peer to peer data syncronization [ DEPRECATED - More info on active projects and modules at https://dat-ecosystem.org/ ] ",
+    "url": "https://github.com/dat-ecosystem-archive/dat-desktop/releases/download/v3.0.1/Dat-Desktop-3.0.1.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Owasp-threat",
+    "description": "An installable desktop variant of OWASP Threat Dragon",
+    "url": "https://github.com/mike-goodwin/owasp-threat-dragon-desktop/releases/download/v1.2/OWASP-Threat-Dragon-1.2.0.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Lisk-linux",
+    "description": "🖥 Lisk graphical user interface for desktop",
+    "url": "https://github.com/LiskHQ/lisk-desktop/releases/download/v4.0.0/lisk-linux-x86_64-4.0.0.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Ananas.analytics.desktop.edition.linux",
+    "description": "A hackable data integration & analysis tool to enable non technical users to edit data processing jobs and visualise data on demand.",
+    "url": "https://github.com/ananas-analytics/ananas-desktop/releases/download/v0.9.0/Ananas.Analytics.Desktop.Edition.0.9.0.linux.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Aircontroller",
+    "description": "A new handy and powerful Android phone assistant， powered by Flutter.",
+    "url": "https://github.com/air-controller/air-controller-desktop/releases/download/0.4.0/AirController_0.4.0.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Home-assistant",
+    "description": "🎛 Desktop application (Windows / macOS / Linux) for Home Assistant built with Electron",
+    "url": "https://github.com/iprodanovbg/homeassistant-desktop/releases/download/v1.5.3/Home-Assistant-Desktop-v1.5.3-linux-arm64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Unofficial-desktop",
+    "description": ":envelope: Unofficial desktop client for ProtonMail",
+    "url": "https://github.com/unofficial-protonmail-desktop/application/releases/download/v1.2.1/Unofficial-desktop-client-for-ProtonMail-1.2.1.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Pb-for",
+    "description": "The missing Desktop application for Pushbullet.",
+    "url": "https://github.com/sidneys/pb-for-desktop/releases/download/v11.0.2/pb-for-desktop-11.0.2-i386.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Cinny-desktop",
+    "description": "Yet another matrix client for desktop",
+    "url": "https://github.com/cinnyapp/cinny-desktop/releases/download/v4.8.1/Cinny_desktop-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Deltachat",
+    "description": "Decentralized private messenger with chat-shared tools and games for Desktop",
+    "url": "https://github.com/deltachat/deltachat-desktop/releases/download/v1.59.1/DeltaChat-1.59.1-arm64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Remix-ide",
+    "description": "Remix IDE desktop",
+    "url": "https://github.com/ethereum/remix-desktop/releases/download/v1.3.6/Remix-IDE-1.3.6.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Android-messages",
+    "description": "Android Messages as a Cross-platform Desktop App",
+    "url": "https://github.com/chrisknepper/android-messages-desktop/releases/download/v3.1.0/Android-Messages-3.1.0.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Revolt",
+    "description": "Revolt Desktop App",
+    "url": "https://github.com/revoltchat/desktop/releases/download/v1.0.8/Revolt-1.0.8-arm64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Ledger-live",
+    "description": "⛔️ DEPRECATED - Ledger Live (Desktop)",
+    "url": "https://github.com/LedgerHQ/ledger-live-desktop/releases/download/v2.42.0/ledger-live-desktop-2.42.0-linux-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Whalebird-linux",
+    "description": "Single-column Fediverse client for desktop",
+    "url": "https://github.com/h3poteto/whalebird-desktop/releases/download/v6.2.2/Whalebird-6.2.2-linux-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Zulip-x",
+    "description": "Zulip Desktop client for Mac, Windows and Linux.",
+    "url": "https://github.com/zulip/zulip-desktop/releases/download/v5.12.0/Zulip-5.12.0-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Cabal-desktop",
+    "description": "Desktop client for Cabal, the p2p/decentralized/local-first chat platform.",
+    "url": "https://github.com/cabal-club/cabal-desktop/releases/download/v8.0.0/cabal-desktop-8.0.0-linux-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Mootool",
+    "description": "Handy tool set for developers. 开发者常备小工具",
+    "url": "https://github.com/rememberber/MooTool/releases/download/v1.6.8/MooTool.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Scrcpygui",
+    "description": "👻 A simple & beautiful GUI application for scrcpy. QQ群:734330215",
+    "url": "https://github.com/SimonAKing/scrcpy-gui/releases/download/1.5.1/ScrcpyGui-1.5.1.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Guiscrcpy-gadac.dev.m.glibc",
+    "description": "A full fledged GUI integration for the award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v",
+    "url": "https://github.com/srevinsaju/guiscrcpy/releases/download/continuous/guiscrcpy-v2023.1.1-5-g077adac.dev.m.glibc2.35-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Streamlink-twitch",
+    "description": "A multi platform Twitch.tv browser for Streamlink",
+    "url": "https://github.com/streamlink/streamlink-twitch-gui/releases/download/v2.5.3/streamlink-twitch-gui-v2.5.3-i686.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Elecap-x",
+    "description": "Playback video in a frameless electron app for screen-sharing and window capture",
+    "url": "https://github.com/steveseguin/electroncapture/releases/download/2.19.1/elecap-2.19.1-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Simple-updater",
+    "description": "Simple way to enable update for the electron application",
+    "url": "https://github.com/megahertz/electron-simple-updater/releases/download/linux-x64-prod-v0.0.2/simple-updater-example-0.0.2-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Shadowsocks-electron",
+    "description": "Shadowsocks GUI application made for Ubuntu / Mac / Win users and powered by Electron.",
+    "url": "https://github.com/nojsja/shadowsocks-electron/releases/download/v1.2.3/Shadowsocks-Electron-1.2.3-arm64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Electron-updater",
+    "description": "A complete example showing how to use `electron-updater`",
+    "url": "https://github.com/iffy/electron-updater-example/releases/download/v0.8.1/electron-updater-example-0.8.1.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Geforcenow-electron",
+    "description": "Linux Desktop client for Nvidia's GeForce NOW game streaming service",
+    "url": "https://github.com/hmlendea/gfn-electron/releases/download/v2.2.0/geforcenow-electron_2.2.0_linux.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Electronplayer",
+    "description": "An Electron Based Web Video Services Player. Supporting Netflix, Youtube, Twitch, Floatplane, Hulu And More",
+    "url": "https://github.com/oscartbeaumont/ElectronPlayer/releases/download/v2.0.8-rc4/electronplayer-2.0.8.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Prosody-x",
+    "description": "Appimage for the Prosody XMPP server",
+    "url": "https://github.com/JohnXLivingston/prosody-appimage/releases/download/v0.12.4-3/prosody-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Audacity-x",
+    "description": "Collection of AppImages and other ready-built applications",
+    "url": "https://github.com/An0n3m0us/AppImages/releases/download/appimages/Audacity-2.3.3-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Netbeans",
+    "description": "Apache NetBeans packaged as AppImages",
+    "url": "https://github.com/trixon/netbeans-appimage/releases/download/v12.2/NetBeans-12.2.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Mutool-x",
+    "description": null,
+    "url": "https://github.com/m59peacemaker/mupdf-appimage/releases/download/1.18.0/mutool-1.18.0-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Antelope-x",
+    "description": "AppImages for EPICS base",
+    "url": "https://github.com/zhangt58/epics-appimage/releases/download/7.0.8.1/antelope-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Actual",
+    "description": "Hosts official releases for Actual",
+    "url": "https://github.com/actualbudget/releases/releases/download/0.0.148/Actual-0.0.148-arm64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Nrfconnect-bluetooth",
+    "description": null,
+    "url": "https://github.com/NordicPlayground/pc-nrfconnect-ble-standalone/releases/download/v4.0.4/nrfconnect-bluetooth-low-energy-4.0.4-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Linuxpowertoys-x",
+    "description": "Get Microsoft's PowerToys utilities and much more to Linux world!",
+    "url": "https://github.com/domferr/Linux-PowerToys/releases/download/0.9-preview/LinuxPowerToys-0.9-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Minecraft-bedrock-3",
+    "description": "Only for Github Actions, The hacked linux-packaging-scripts of minecraft-linux (endless tweaked)",
+    "url": "https://github.com/minecraft-linux/appimage-builder/releases/download/v1.1.1-802/Minecraft_Bedrock_Launcher-bookworm-arm64-v1.1.1.802.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Deezer-desktop",
+    "description": "An universal linux port of deezer, supporting Flatpak, Appimage, Snap, RPM, DEB...",
+    "url": "https://github.com/aunetx/deezer-linux/releases/download/v7.0.80-1/deezer-desktop-7.0.80-arm64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Sudachi-anylinux",
+    "description": "Unofficial AppImage of Sudachi, with optimized builds for modern cpus. Copied from @Samueru-sama's work on Citron-AppImage",
+    "url": "https://github.com/TechDevangelist/Sudachi-AppImage/releases/download/1.0.15/Sudachi-1.0.15-anylinux-znver2.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Lapce-x",
+    "description": "lapce in AppImage format",
+    "url": "https://github.com/Portable-Linux-Apps/lapce-AppImage/releases/download/v0.4.2/Lapce-v0.4.2-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Floorp-x",
+    "description": "Floorp browser in AppImage format",
+    "url": "https://github.com/Portable-Linux-Apps/floorp-AppImage/releases/download/v11.27.0/Floorp-v11.27.0-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Fastfetch-x",
+    "description": "fastfetch in AppImage format",
+    "url": "https://github.com/Portable-Linux-Apps/fastfetch-AppImage/releases/download/2.46.0/fastfetch-2.46.0-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Via-linux",
+    "description": "Release the VIA for Westberry version.",
+    "url": "https://github.com/WestBerryVIA/via-releases/releases/download/v3.0.0/via-3.0.0-linux.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Voicejoinstandalone",
+    "description": "破站与观众连麦第三方实现",
+    "url": "https://github.com/shugen002/VoiceJoinStandalone/releases/download/v1.0.2/VoiceJoinStandalone-1.0.2.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Desktop-dimmer",
+    "description": "Enable darker-than-dark dimming for internal and external screens.",
+    "url": "https://github.com/sidneys/desktop-dimmer/releases/download/v4.0.4/desktop-dimmer-4.0.4-i386.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Crypto.com-defi",
+    "description": "Crypto.com DeFi Desktop Wallet",
+    "url": "https://github.com/crypto-com/chain-desktop-wallet/releases/download/v1.5.1/Crypto.com-DeFi-Desktop-Wallet-1.5.1.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Penpot-desktop",
+    "description": "A desktop application for Penpot, an open-source design tool.",
+    "url": "https://github.com/author-more/penpot-desktop/releases/download/v0.15.1/Penpot-Desktop-0.15.1-arm64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Linux-scatter",
+    "description": "Connect to applications on EOS, Ethereum, and Tron. Exchange tokens with ease. Manage your assets safely. All in a simple to use interface.",
+    "url": "https://github.com/GetScatter/ScatterDesktop/releases/download/12.1.1/linux-scatter-12.1.1-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Space-nerds-2",
+    "description": null,
+    "url": "https://github.com/vpelss/Space-Nerds-In-Space-Appimage/releases/download/download/Space_Nerds_in_Space-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Gpu-screen-2",
+    "description": "Unofficial AppImage of GPU Screen Recorder [Maintainer=@Samueru-sama] ",
+    "url": "https://github.com/pkgforge-dev/gpu-screen-recorder-AppImage/releases/download/r1115.d0a620a-1/gpu-screen-recorder-r1115.d0a620a-1-anylinux-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Zenb-anylinux",
+    "description": null,
+    "url": "https://github.com/Samueru-sama/zen-appimage-test/releases/download/1.12.9b/Zen-1.12.9b-anylinux-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Bitfocus-companion-2",
+    "description": "Bitfocus Companion unofficial AppImage",
+    "url": "https://github.com/senz/Companion-AppImage/releases/download/companion-4.0.1%2B8061-stable-b1c1c1f4dd-7/Bitfocus_Companion-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Code-oss.glibc",
+    "description": "A repository for building an AppImage for the latest Code (OSS).",
+    "url": "https://github.com/fusion809/Code-OSS.AppImage/releases/download/continuous/code-oss-1.8.1.glibc2.14-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Android-x",
+    "description": null,
+    "url": "https://github.com/Xtr126/Android-x86-installer/releases/download/app-v1.0.0/Android-x86-installer_1.0.0_amd64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Wagyu.installer",
+    "description": null,
+    "url": "https://github.com/stake-house/wagyu-installer/releases/download/v0.6.0/Wagyu.Installer-0.6.0.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Codex-linux",
+    "description": "The original code for CODEX installer",
+    "url": "https://github.com/SolsticeSpectrum/CODEX-Installer/releases/download/latest/codex_linux.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Spotifywebplayer-ia",
+    "description": "An Electron wrapper of Spotify Web Player to increase desktop integration for a stable Spotify Player for Linux replacement",
+    "url": "https://github.com/Quacky2200/Spotify-Web-Player-for-Linux/releases/download/1.0.42/spotifywebplayer-1.0.42-ia32.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Install-mapeo",
+    "description": "Local-first mapping and monitoring in remote environments",
+    "url": "https://github.com/digidem/mapeo-desktop/releases/download/v5.6.4/Install_Mapeo_v5.6.4_linux.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Kodi-ubuntu",
+    "description": null,
+    "url": "https://github.com/lucasmz1/Kodi_AppImage/releases/download/20.2/Kodi-Ubuntu-20.04-20.2.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Mycitadel-glibc",
+    "description": "MyCitadel Wallet app for Linux, Windows & MacOS desktop made with GTK+3",
+    "url": "https://github.com/mycitadel/mycitadel-desktop/releases/download/v1.5.0/MyCitadel_1.5.0_glibc2.34_amd64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Filen-linux",
+    "description": "Filen Desktop Client for Windows, macOS and Linux",
+    "url": "https://github.com/FilenCloudDienste/filen-desktop/releases/download/v3.0.47/Filen_linux_arm64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Silex-desktop",
+    "description": null,
+    "url": "https://github.com/silexlabs/silex-desktop/releases/download/v2.7.33/silex-desktop-2.7.33.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Session-desktop",
+    "description": "Session Desktop - A Decentralized, Onion Routed, Private Messenger",
+    "url": "https://github.com/session-foundation/session-desktop/releases/download/v1.16.2/session-desktop-linux-x86_64-1.16.2.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Desmos-x",
+    "description": "Desmos desktop version",
+    "url": "https://github.com/DingShizhe/Desmos-Desktop/releases/download/v1.0.0/desmos-1.0.0-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Flowkeeper-ubuntu",
+    "description": "Flowkeeper desktop application",
+    "url": "https://github.com/flowkeeper-org/fk-desktop/releases/download/v1.0.0/flowkeeper-1.0.0-ubuntu-22.04-arm-nuitka.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Particl-desktop",
+    "description": "The GUI application for Particl Markeplace and PART coin wallet. A decentralized peer to peer marketplace –free, secure, private, untraceable.",
+    "url": "https://github.com/particl/particl-desktop/releases/download/v3.3.2/particl-desktop-3.3.2-linux-x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Quiqr-linux",
+    "description": "Hugo CMS and Publishing Application",
+    "url": "https://github.com/quiqr/quiqr-desktop/releases/download/v0.19.10/quiqr_0.19.10_linux_x86_64.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Remix-desktop",
+    "description": null,
+    "url": "https://github.com/remix-project-org/remix-desktop-insiders/releases/download/v1.1.3-insiders/Remix-Desktop-Insiders-1.1.3-insiders.AppImage",
+    "icon": "/tia/tia.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Blood.on.the.clocktower.online-amd",
+    "description": "The Official Blood on the Clocktower App",
+    "url": "https://github.com/ThePandemoniumInstitute/botc-release/releases/download/v3.44.2/Blood.on.the.Clocktower.Online_3.44.2_amd64.AppImage",
+    "icon": "https://raw.githubusercontent.com/ThePandemoniumInstitute/botc-release/master/icon.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Hoppscotch-linux",
+    "description": "Hoppscotch Desktop App releases.",
+    "url": "https://github.com/hoppscotch/releases/releases/download/v25.5.4-0/Hoppscotch_linux_x64.AppImage",
+    "icon": "https://raw.githubusercontent.com/hoppscotch/releases/master/icon.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Koishi-desktop",
+    "description": "Launch Koishi from your desktop",
+    "url": "https://github.com/koishijs/koishi-desktop/releases/download/v1.1.3/koishi-desktop-linux-x64-v1.1.3.AppImage",
+    "icon": "https://raw.githubusercontent.com/koishijs/koishi-desktop/master/icon.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Wakatime-linux",
+    "description": "Windows & Linux system tray app for automatic time tracking and metrics generated from your Figma, Postman, etc. usage.",
+    "url": "https://github.com/wakatime/desktop-wakatime/releases/download/v2.1.7/wakatime-linux-arm64.AppImage",
+    "icon": "https://raw.githubusercontent.com/wakatime/desktop-wakatime/master/icon.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Outerbase-studio",
+    "description": "Outerbase Studio Desktop is a lightweight Electron wrapper for the Outerbase Studio web version.",
+    "url": "https://github.com/outerbase/studio-desktop/releases/download/v0.1.29/Outerbase-Studio-Linux-0.1.29.AppImage",
+    "icon": "https://raw.githubusercontent.com/outerbase/studio-desktop/master/icon.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Workflowy-x",
+    "description": null,
+    "url": "https://github.com/workflowy/desktop/releases/download/v4.1.2506241525/WorkFlowy-x86_64.AppImage",
+    "icon": "https://raw.githubusercontent.com/workflowy/desktop/master/icon.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Cattr",
+    "description": "Electron-based desktop time tracker for Cattr",
+    "url": "https://github.com/cattr-app/desktop-application/releases/download/v3.0.0-RC13/Cattr.AppImage",
+    "icon": "https://raw.githubusercontent.com/cattr-app/desktop-application/master/icon.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Home-assistant-2",
+    "description": "Use Home Assistant Assist on the desktop. Compatible with Windows, MacOS, and Linux",
+    "url": "https://github.com/timmo001/home-assistant-assist-desktop/releases/download/1.4.0/home-assistant-assist_1.4.0_amd64.AppImage",
+    "icon": "https://raw.githubusercontent.com/timmo001/home-assistant-assist-desktop/master/icon.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Apple-music",
+    "description": "An Electron app that provides a native Apple Music experience for Linux & Windows.",
+    "url": "https://github.com/Alex313031/apple-music-desktop/releases/download/2.1.2/apple-music_2.1.2_x64.AppImage",
+    "icon": "https://raw.githubusercontent.com/Alex313031/apple-music-desktop/master/icon.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Mavensmate",
+    "description": "Packaged desktop app for MavensMate server",
+    "url": "https://github.com/joeferraro/MavensMate-Desktop/releases/download/v0.0.11/MavensMate.0.0.11.AppImage",
+    "icon": "https://raw.githubusercontent.com/joeferraro/MavensMate-Desktop/master/icon.png",
+    "category": "Utility"
+  },
+  {
+    "name": "Modrinth",
+    "description": "Servidor Minecraft Oficial",
+    "url": "https://launcher-files.modrinth.com/versions/0.9.5/linux/Modrinth%20App_0.9.5_amd64.AppImage",
+    "icon": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/a49f8e1b-3835-4ea1-a85b-118c6425ebc3/thumb_Modrinth_Dark_Logo.png",
+    "category": "Games"
   }
 ]
