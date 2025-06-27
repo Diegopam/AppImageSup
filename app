@@ -4,7 +4,7 @@ JSON_URL="https://raw.githubusercontent.com/Diegopam/AppImageSup/main/apm.json"
 BIN_DIR="/usr/local/bin"
 DESKTOP_DIR="$HOME/.local/share/applications"
 ICON_DIR="$HOME/.local/share/icons"
-INSTALLED_JSON="$HOME/.config/AppImageStore/instalados.json"
+INSTALLED_JSON="$HOME/.config/AppImage-Store/instalados.json"
 
 sudo mkdir -p "$BIN_DIR"
 mkdir -p "$DESKTOP_DIR" "$ICON_DIR" "$(dirname "$INSTALLED_JSON")"
