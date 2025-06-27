@@ -4,9 +4,10 @@ JSON_URL="https://raw.githubusercontent.com/Diegopam/AppImageSup/main/apm.json"
 BIN_DIR="/usr/local/bin"
 DESKTOP_DIR="$HOME/.local/share/applications"
 ICON_DIR="$HOME/.local/share/icons"
+INSTALLED_JSON="$HOME/.config/AppImageStore/instalados.json"
 
 sudo mkdir -p "$BIN_DIR"
-mkdir -p "$DESKTOP_DIR" "$ICON_DIR"
+mkdir -p "$DESKTOP_DIR" "$ICON_DIR" "$(dirname "$INSTALLED_JSON")"
 
 baixar_json() {
   curl -s "$JSON_URL"
@@ -18,6 +19,29 @@ buscar_app_bloco() {
 
 extrair_campo() {
   echo "$1" | grep -oP "\"$2\"\\s*:\\s*\"\\K[^\"]+"
+}
+
+carregar_lista_instalados() {
+  if [ -f "$INSTALLED_JSON" ]; then
+    cat "$INSTALLED_JSON"
+  else
+    echo "[]" > "$INSTALLED_JSON"
+    echo "[]"
+  fi
+}
+
+adicionar_app_instalado() {
+  local APP_NAME="$1"
+  local lista
+  lista=$(carregar_lista_instalados | jq --arg name "$APP_NAME" 'if . | index($name) then . else . + [$name] end')
+  echo "$lista" > "$INSTALLED_JSON"
+}
+
+remover_app_instalado_lista() {
+  local APP_NAME="$1"
+  local lista
+  lista=$(carregar_lista_instalados | jq --arg name "$APP_NAME" 'del(.[index($name)])')
+  echo "$lista" > "$INSTALLED_JSON"
 }
 
 criar_launcher() {
@@ -81,6 +105,8 @@ instalar_app() {
   fi
 
   criar_launcher "$NAME" "$DESC" "$DEST" "$ICON_PATH" "$CATEGORY"
+
+  adicionar_app_instalado "$NAME"
 }
 
 listar_apps() {
@@ -133,7 +159,7 @@ atualizar_app() {
 
 atualizar_todos() {
   echo "🔄 Atualizando todos os apps instalados..."
-  baixar_json | grep -oP '"name"\s*:\s*"\K[^"]+' | while read -r app; do
+  carregar_lista_instalados | jq -r '.[]' | while read -r app; do
     atualizar_app "$app"
   done
 }
@@ -162,6 +188,7 @@ remover_app() {
   [ -f "$DESKTOP_FILE" ] && rm -f "$DESKTOP_FILE" && echo "✅ Atalho removido: $DESKTOP_FILE"
   [ -f "$ICON_FILE" ] && rm -f "$ICON_FILE" && echo "✅ Ícone removido: $ICON_FILE"
 
+  remover_app_instalado_lista "$NAME"
   echo "✔️ Remoção completa."
 }
 
@@ -203,3 +230,4 @@ case "$1" in
     echo "❌ Comando inválido. Use: app help"
     ;;
 esac
+
