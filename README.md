@@ -6,6 +6,19 @@ Com ele, você pode instalar, listar, atualizar, remover e buscar AppImages dire
 > ⚡ Totalmente feito em Bash e usando um arquivo JSON hospedado neste repositório como "repositório de apps".
 
 ---
+## ⚠️ Atenção instale o jq antes de usar!
+**jq para Arch Linux**
+```bash
+sudo pacman -S jq
+```
+**jq para Debian**
+```bash
+sudo apt install jq
+```
+**jq para Fedora**
+```bash
+sudo dnf install jq
+```
 
 ## 📥 Instalação rápida
 
