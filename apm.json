@@ -1,5 +1,12 @@
 [
   {
+     "name": "Appimage-Store",
+    "description": "Loja Oficial de AppImages",
+    "url": "https://github.com/Diegopam/AppImageSup/releases/download/V-1.0.0/AppImage-Store-1.0.0.AppImage",
+    "icon": "https://private-user-images.githubusercontent.com/48626408/459128503-41a34d76-49d9-46f1-af5a-cb825ee77809.png",
+    "category": "AppImage"
+  },
+  {
     "name": "VsCodium",
     "description": "editor de codigos",
     "url": "https://github.com/VSCodium/vscodium/releases/download/1.101.14098/VSCodium-1.101.14098.glibc2.29-x86_64.AppImage",
