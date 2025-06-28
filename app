@@ -1,12 +1,12 @@
 #!/bin/bash
 
 JSON_URL="https://raw.githubusercontent.com/Diegopam/AppImageSup/main/apm.json"
-BIN_DIR="/usr/local/bin"
+BIN_DIR="$HOME/.local/bin"
 DESKTOP_DIR="$HOME/.local/share/applications"
 ICON_DIR="$HOME/.local/share/icons"
 INSTALLED_JSON="$HOME/.config/AppImage-Store/instalados.json"
 
-sudo mkdir -p "$BIN_DIR"
+mkdir -p "$BIN_DIR"
 mkdir -p "$DESKTOP_DIR" "$ICON_DIR" "$(dirname "$INSTALLED_JSON")"
 
 baixar_json() {
@@ -92,9 +92,9 @@ instalar_app() {
   ICON_PATH="$ICON_DIR/$NAME.png"
 
   echo "🔽 Baixando $NAME..."
-  curl -L "$URL" -o "/tmp/$FILENAME"
-  sudo mv "/tmp/$FILENAME" "$DEST"
-  sudo chmod +x "$DEST"
+  curl -L "$URL" -o "$HOME/$FILENAME"
+  mv "$HOME/$FILENAME" "$DEST"
+  chmod +x "$DEST"
   echo "✅ App salvo em $DEST"
 
   if [ -n "$ICON_URL" ]; then
@@ -148,9 +148,9 @@ atualizar_app() {
 
   if [ -f "$DEST" ]; then
     echo "🔁 Atualizando $NAME..."
-    curl -L "$URL" -o "/tmp/$FILENAME"
-    sudo mv "/tmp/$FILENAME" "$DEST"
-    sudo chmod +x "$DEST"
+    curl -L "$URL" -o "$HOME/$FILENAME"
+    mv "$HOME/$FILENAME" "$DEST"
+    chmod +x "$DEST"
     echo "✅ Atualizado: $DEST"
   else
     echo "⚠️ $NAME não instalado. Ignorado."
