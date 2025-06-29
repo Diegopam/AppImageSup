@@ -12,7 +12,7 @@
     "url":"https://github.com/ivan-hc/Chrome-appimage/releases/download/continuous/Google-Chrome-stable-138.0.7204.49-1-x86_64.AppImage",
      "icon": "https://raw.githubusercontent.com/Diegopam/AppImageSup/main/appimagesup.png",
     "category": "AppImage"
-  }
+  },
   {
     "name": "Vscodium",
     "description": "editor de codigos",
