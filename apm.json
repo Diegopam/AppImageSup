@@ -2,7 +2,7 @@
   {
     "name": "Appimage-Store",
     "description": "Loja Oficial de AppImages",
-    "url": "https://github.com/Diegopam/AppImageSup/releases/download/V-BETA/AppImage-Store.AppImage",
+    "url": "https://github.com/Diegopam/AppImageSup/releases/download/V-BETA2/AppImage-Store-beta2.AppImage",
     "icon": "https://raw.githubusercontent.com/Diegopam/AppImageSup/main/appimagesup.png",
     "category": "AppImage"
   },
